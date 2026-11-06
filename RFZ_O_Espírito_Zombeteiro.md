@@ -2,6 +2,8 @@
 
 ![autoretrato.jpg](autoretrato.jpg)
 
+_Legenda para todos verem: um busto masculino sem qualquer pelo de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
+
 Caro leitor,
 
 Sou Rfz. Um preto norte, americano forte com um brinco de ouro na orelha... Brincadeira. Sou apenas um rapaz latino americano sem dinheiro no banco.
