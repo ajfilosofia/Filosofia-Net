@@ -2,7 +2,7 @@
 
 Caro leitor,
 
-Sou Rafz, um preto norte, americano forte com um brinco de ouro na orelha... Brincadeira. Sou apenas um rapaz latino americano sem dinheiro no banco.
+Sou Rfz, um preto norte, americano forte com um brinco de ouro na orelha... Brincadeira. Sou apenas um rapaz latino americano sem dinheiro no banco.
 
 Sou comunicólogo e faço um monte de coisas, mas minha área não é a filosofia. Entrei pro grupo Filosofia-Net logo no começo, pois aprender e conhecer é minha paixão. Especialmente quando se faz isso em grupo.
 
