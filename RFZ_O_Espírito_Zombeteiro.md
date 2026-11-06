@@ -1,5 +1,7 @@
 # RFZ - O Espírito Zombeteiro
 
+![autoretrato.jpg](autoretrato.jpg)
+
 Caro leitor,
 
 Sou Rfz. Um preto norte, americano forte com um brinco de ouro na orelha... Brincadeira. Sou apenas um rapaz latino americano sem dinheiro no banco.
