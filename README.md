@@ -46,4 +46,4 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 ---
 # BLOGS
 
-- [RFZ_-O_Espírito_Zombeteiro](RFZ_-O_Espírito_Zombeteiro)
+- [RFZ_O_Espírito_Zombeteiro](RFZ_O_Espírito_Zombeteiro)
