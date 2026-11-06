@@ -47,3 +47,5 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 # BLOGS
 
 - [RFZ_O_Espírito_Zombeteiro](RFZ_O_Espírito_Zombeteiro)
+- [FJ O Louco](FJ_O_Louco)
+  
