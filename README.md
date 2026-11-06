@@ -2,8 +2,10 @@
 Um ciberespaço para trocar uma ideia descontraída sobre filosofia
 -------------------------------------------
 
-No princípio era o Verbo. 
+No princípio era o Verbo.
+
 E o Verbo se fez carne.
+
 Depois o Verbo se fez dígito.
 
 
