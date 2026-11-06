@@ -1,4 +1,3 @@
-# Filosofia-net
 Um ciberespaço para trocar uma ideia descontraída sobre filosofia
 -------------------------------------------
 
@@ -44,3 +43,7 @@ Enfim, inúmeras perguntas que emergem do grande problema filosófico de estar v
 
 Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinuado entre pessoas que habitam o ciberespaço e se ocupam com as grandes questões da existência. É um espaço caótico, de atravessamentos, em que temas emergem e imergem com velocidades infinitas. O que resulta? o impossível em sua imprevisibilidade. 
 
+---
+# BLOGS
+
+- [RFZ_-_O_Espírito_Zombeteiro](RFZ_-_O_Espírito_Zombeteiro)
