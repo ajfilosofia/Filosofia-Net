@@ -1,5 +1,10 @@
 # A Tecnologização do Sagrado e a Crise do Indivíduo Contemporâneo
 
+![Hades](Hades.jpg)
+
+Para todos verem: um sujeito com cabelos de fogo e fogo saindo pelas mãos. Veste algo como uma toga azul escura e tem o céu estrelado de mesma cor ao fundo. Sou eu fazendo *cosplay* do personagem Hades do filme Hércules da Disney.
+
+
 ## Resumo
 
 Este ensaio investiga a transformação contemporânea do lugar do sagrado nas sociedades ocidentais. Partindo da distinção entre religião institucional, experiência religiosa e mito social, o estudo propõe que a modernidade não elimina o sagrado, mas desloca seus mecanismos de mediação. Apoiado nas contribuições de Marshall McLuhan e Pierre Bourdieu, o conceito de tecnologia é compreendido como extensão cognitiva e estrutura simbólica capaz de organizar percepções coletivas e formas de pertencimento. Argumenta-se que a crise do indivíduo contemporâneo não decorre da secularização propriamente dita, mas da multiplicação concorrente de formas de sacralidade mediadas por tecnologias comunicacionais e desprovidas de autoridade comum. A personalização algorítmica das mídias contribui para a atomização social e para a substituição parcial das funções integradoras anteriormente desempenhadas pela religião. Conclui-se que a condição pós-secular caracteriza-se não pela ausência de crença, mas pela impossibilidade de crença inocente, produzindo um indivíduo simultaneamente plural em convicções e estruturalmente isolado.
