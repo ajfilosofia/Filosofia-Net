@@ -20,4 +20,4 @@ Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhom
 
 # Textos
 
-1. [A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
+1. [A Tecnologização do Sagrado e a Crise do Indivíduo Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
