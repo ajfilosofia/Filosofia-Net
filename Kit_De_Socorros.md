@@ -84,6 +84,7 @@ GitHub é uma página online que, dentre outras coisas, principalmente guarda ar
 3. Clique em "create" e avise os colegas no XMPP
 4. Para corrigir seu texto, basta abrir o seu envio novamente, clicar em "..." mudar o que for necessário e salvar.
 5. O texto será publicado após a revisão
+
 ## 5.2. "Quero subir direto no GitHub"
 
 Tenha uma conta no GitHub e faça um pull request numa branch própria no diretório do blog diretamente do navegador, pelo editor de textos do proprio GitHub.
