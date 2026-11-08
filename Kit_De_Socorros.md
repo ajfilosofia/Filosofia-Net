@@ -4,16 +4,6 @@
 
 > Para todos verem: cartaz em estilo arcade com os dizeres "Filosofia-net, um canal dedicado à filosofia via XMPP. filosofia-net@canais.xmpp.social.br . Acesse pelos apps: 1. conversations 2. Gajim"
 
-# Como Vai?
-
-> Filosofia-Net, Um canal dedicado à filosofia via XMPP
-> 
-> filosofia-net@canais.xmpp.social.br
-> 
-> Acesse pelos apps:
-> 1. Conversations
-> 2. Gajim
-
 # 1. O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
