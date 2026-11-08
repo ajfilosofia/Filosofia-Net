@@ -14,7 +14,7 @@
 > 1. Conversations
 > 2. Gajim
 
-# O Que É Filosofia-Net?
+# 1. O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
 
@@ -39,9 +39,9 @@ Também contamos com um site em que divulgamos nossos textos autorais. Avise no 
 
 https://ajfilosofia.github.io/Filosofia-Net/
 
-# Como Publicar No Blog Do Filosofia-Net?
+# 2. Como Publicar No Blog Do Filosofia-Net?
 
-## Fluxo Das Publicações
+## 2.1. Fluxo Das Publicações
 
 0. Escreva seu texto (em linguagem Markdown preferivelmente)
 1. Faça uma conta no GitHub
@@ -56,7 +56,7 @@ https://ajfilosofia.github.io/Filosofia-Net/
 7. O colega responsável publica o texto (merge pull request)
 8. A serpente estará na terra e seu texto estará no ar
 
-## Sugestões
+## 2.2. Sugestões
 
 1. Somos colegas, não há necessidade de editor-chefe
 2. Aprovar não é concordar
@@ -65,15 +65,15 @@ https://ajfilosofia.github.io/Filosofia-Net/
 5. Não há bastidores, comentários públicos são mais bacanas
 6. Todos revisando todos é uma maneira bacana de melhorar nosso texto
 
-# O Que É Git?
+# 3. O Que É Git?
 
 Git é uma ferramenta que guarda versões de arquivos. Cada "commit" é uma forma de fotografar o estado atual do arquivo e comentá-lo. Isso permite "voltar no tempo" para os estados anteriores dos arquivos, se for necessário. Também é possível acompanhar quaisquer alterações feitas nos arquivos.
-# O Que É GitHub?
+# 4. O Que É GitHub?
 
 GitHub é uma página online que, dentre outras coisas, principalmente guarda arquivos git online. Assim várias pessoas podem colaborar em diferentes projetos.
-# Como Subir Textos No Blog?
+# 5. Como Subir Textos No Blog?
 
-## "Não sei usar git"
+## 5.1. "Não sei usar git"
 
 (1) Você pode enviar seu arquivo no formato que lhe for mais conveniente para os colegas no XMPP e explicar a situação, mas a conta no GitHub será necessária para que você possa ter uma página no blog.
 
@@ -84,13 +84,13 @@ GitHub é uma página online que, dentre outras coisas, principalmente guarda ar
 3. Clique em "create" e avise os colegas no XMPP
 4. Para corrigir seu texto, basta abrir o seu envio novamente, clicar em "..." mudar o que for necessário e salvar.
 5. O texto será publicado após a revisão
-## "Quero subir direto no GitHub"
+## 5.2. "Quero subir direto no GitHub"
 
 Tenha uma conta no GitHub e faça um pull request numa branch própria no diretório do blog diretamente do navegador, pelo editor de textos do proprio GitHub.
-## "Sei fazer commits, pulls and pushs"
+## 5.3. "Sei fazer commits, pulls and pushs"
 
 Então é só commitar e fazer o pull request numa branch própria.
-# FAQ
+# 6. FAQ
 
 1. Posso por imagens?
 	1. Faz favor! Eu, Rafz, acho que fica uma graça!
