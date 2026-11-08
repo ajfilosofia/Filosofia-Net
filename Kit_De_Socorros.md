@@ -13,6 +13,7 @@
 > Acesse pelos apps:
 > 1. Conversations
 > 2. Gajim
+
 # O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
