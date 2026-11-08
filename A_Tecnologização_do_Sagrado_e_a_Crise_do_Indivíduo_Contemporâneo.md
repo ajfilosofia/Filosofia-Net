@@ -1,4 +1,4 @@
-# A Tecnologização do Sagrado e a Crise do Indivíduo Contemporâneo
+# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo
 
 ![Hades](Hades.jpg)
 
