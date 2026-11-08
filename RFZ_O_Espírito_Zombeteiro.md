@@ -2,7 +2,7 @@
 
 ![autoretrato.jpg](autoretrato.jpg)
 
-_Legenda para todos verem: um busto masculino sem qualquer pelo de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
+> _Legenda para todos verem: um busto masculino sem qualquer pelo de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
 
 Caro leitor,
 
@@ -20,5 +20,5 @@ Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhom
 
 # Textos
 
-1. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
-2. [Kit De Socorros](Kit_De_Socorros)
+0. [Kit De Socorros](Kit_De_Socorros)
+1. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo) 
