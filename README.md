@@ -49,3 +49,7 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 - [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 - [FJ O Louco](FJ_O_Louco)
   
+---
+# LISTA DE LEITURA DO FILOSOFIA-NET
+
+- [Lista De Leitura Oficial](Lista_De_Leitura_Oficial)
