@@ -23,4 +23,12 @@
 	1. votos
 		1. rafzmilhomens
 		2. santanista
-		3. 
+6. Futuro Ancestral (Krenak) {rafzmilhomens}
+	1. votos
+		1. rafzmilhomens
+		2. fjnet
+7. História Do Sexo (Foucault) {Rafzmilhomens}
+	1. votos
+		1. rafzmilhomens
+		2. fjnet
+8. 
