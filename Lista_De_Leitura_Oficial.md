@@ -1,6 +1,6 @@
 # Lista De Leitura Oficial
 
-> Nome Da Obra (Nome do autor) {Quem sugeriu} - data/de/conclusão
+> ==🔵Legenda: Nome Da Obra (Nome do autor) {Quem sugeriu} - data/de/conclusão==
 
 1. Manuscritos Econômicos Filosóficos de 1844 (Karl Marx) {santanista}
 	1. Votos
