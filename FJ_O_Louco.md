@@ -1,5 +1,7 @@
 # FJ - O Louco
 
+![Justin Guevara](Justin Guevara.jpg)
+
 Estimado leitor,
 
 Esta singela página pretende trazer problemas. Seu propósito é perturbar-lhe e tirar sua paz.
