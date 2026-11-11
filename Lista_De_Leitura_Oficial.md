@@ -1,5 +1,7 @@
 # Lista De Leitura Oficial
 
+> Nome da obra (Nome do autor) {Quem sugeriu}
+
 1. Manuscritos Econômicos Filosóficos de 1844 (Karl Marx) {Santanista}
 	1. Votos
 		1. Fjnet
