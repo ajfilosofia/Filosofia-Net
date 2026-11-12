@@ -3,7 +3,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..600&display=swap" rel="stylesheet">
 
 <style>
-  /* ---------- Página inteira: neutra, sem a identidade do blog ---------- */
   html:has(.lista-leitura),
   body:has(.lista-leitura) {
     background: #FFFFFF;
