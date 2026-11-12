@@ -1,3 +1,23 @@
+<style>
+  body {
+    background: #000;
+    color: #00ff00;
+    font-family: "Courier New", Consolas, monospace;
+  }
+  h1, h2, h3, h4, a, strong {
+    color: #00ff00;
+  }
+  a:hover {
+    background: #00ff00;
+    color: #000;
+  }
+  code, pre {
+    background: #0a0a0a;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+  }
+</style>
+
 Este texto foi produzido em 2020, no contexto da pandemia de covid-19. Muito se falava em resiliência naquele momento. Contudo, não o concluí. Deixei-o guardado como um sinal do que era capaz de produzir naquele momento (recém formado em Filosofia). Hoje, o publico tal como foi redigido originalmente em homenagem àquele momento de minha vida. Que o texto lhe provoque e inspire a refletir.
 
 # A dose certa do remédio: Epicuro e a resiliência
