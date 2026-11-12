@@ -1,7 +1,3 @@
----
-layout: hacker
-title: FJ - O Louco
----
 <style>
   body {
     background: #000;
