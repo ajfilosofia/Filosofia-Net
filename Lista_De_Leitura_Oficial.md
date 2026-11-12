@@ -1,5 +1,3 @@
-<!-- ===== Estilo da Lista de Leitura (minimalista, coletivo) — colar no <head>, junto do outro =====
-     Só age em páginas que contenham <div class="lista-leitura">. O resto do blog não muda. -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..600&display=swap" rel="stylesheet">
@@ -134,7 +132,6 @@
     .lista-leitura > ol > li { padding: 1em 0 1em 2.3em; }
   }
 </style>
-<!-- ===== fim do estilo ===== -->
 # Lista De Leitura Oficial
 
 > Legenda: Nome Da Obra (Nome do autor) {Quem sugeriu} - data/de/conclusão
