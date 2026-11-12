@@ -19,7 +19,7 @@
 </style>
 # FJ - O Louco
 
-![Justin Guevara](Justin Guevara.jpg)
+<center>![Justin Guevara](Justin Guevara.jpg)</center>
 
 Estimado leitor,
 
