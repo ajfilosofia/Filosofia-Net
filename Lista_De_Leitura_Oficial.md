@@ -1,4 +1,11 @@
+<!-- ===== Estilo da Lista de Leitura (minimalista, coletivo) — colar no <head>, junto do outro =====
+     Só age em páginas que contenham <div class="lista-leitura">. O resto do blog não muda. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..600&display=swap" rel="stylesheet">
+
 <style>
+  /* ---------- Página inteira: neutra, sem a identidade do blog ---------- */
   html:has(.lista-leitura),
   body:has(.lista-leitura) {
     background: #FFFFFF;
@@ -127,9 +134,13 @@
     .lista-leitura > ol > li { padding: 1em 0 1em 2.3em; }
   }
 </style>
+<!-- ===== fim do estilo ===== -->
 # Lista De Leitura Oficial
 
+
 > Legenda: Nome Da Obra (Nome do autor) {Quem sugeriu} - data/de/conclusão
+
+<div class="lista-leitura" markdown="1">
 
 1. Manuscritos Econômicos Filosóficos de 1844 (Karl Marx) {santanista}
 	1. Votos
@@ -227,3 +238,6 @@
 28. Tristes Trópicos (Lévi-Strauss) {rafzmilhomens}
 	1. Votos
 		1. rafzmilhomens
+
+</div>
+
