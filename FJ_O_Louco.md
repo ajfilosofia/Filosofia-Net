@@ -1,3 +1,26 @@
+---
+layout: hacker
+title: FJ - O Louco
+---
+<style>
+  body {
+    background: #000;
+    color: #00ff00;
+    font-family: "Courier New", Consolas, monospace;
+  }
+  h1, h2, h3, h4, a, strong {
+    color: #00ff00;
+  }
+  a:hover {
+    background: #00ff00;
+    color: #000;
+  }
+  code, pre {
+    background: #0a0a0a;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+  }
+</style>
 # FJ - O Louco
 
 ![Justin Guevara](Justin Guevara.jpg)
