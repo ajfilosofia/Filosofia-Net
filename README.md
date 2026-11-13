@@ -37,7 +37,8 @@ O pensamento!
 "O que significa ser humano na época do ciborgue?"  
 "Existe algo que ainda é natural?"  
 "As tecnologias modificam o pensamento?"  
-"A máquina pode pensar?"  
+"A máquina pode pensar?"
+
 Enfim, inúmeras perguntas que emergem do grande problema filosófico de estar vivo - algo que ainda nos atravessa (deixará de o fazê-lo? outra pergunta a ser respondida).  
 Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinuado entre pessoas que habitam o ciberespaço e se ocupam com as grandes questões da existência. É um espaço caótico, de atravessamentos, em que temas emergem e imergem com velocidades infinitas. O que resulta? o impossível em sua imprevisibilidade.  
 
