@@ -182,7 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
-# Poesia
+# Verso & Poesia
 
 ![Frágil](RFZ_frágil.jpeg)
 
@@ -225,3 +225,9 @@ Dentre eles
 o que se pergunta
 
 qual sou?
+
+## Demônio Do Meio Dia
+
+O homem é solar
+Dá saudade quando viaja
+Dá fastio quando em casa

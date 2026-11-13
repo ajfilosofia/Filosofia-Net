@@ -202,13 +202,15 @@ Rfz
 
 Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
 
+## Comece Por Aqui
 
-# [RFZ_Textos](RFZ_Textos.md)
-
-# [RFZ_Poesia](RFZ_Poesia.md)
+- [Textos](RFZ_Textos.md) 
+	- Textos não tão filosóficos, mas reflexivos
+- [Verso & Poesia](RFZ_Verso_&_Poesia.md)
+	- Poesia com e sem aspas
 
 ---
+## Do Filosofia-Net
 
-# Do Filosofia-Net
-
-[Kit De Socorros](Kit_De_Socorros)
+- [Kit De Socorros](Kit_De_Socorros)
+	- Guia para publicar no Filosofia-Net
