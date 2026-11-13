@@ -124,6 +124,9 @@
     margin: 0 0.6em;
   }
 
+  /* Anula o espaço que o tema Primer põe entre itens (desalinhava os nomes) */
+  .lista-leitura li + li { margin-top: 0; }
+
   /* Obra concluída: ~~ ~~ no Markdown */
   .lista-leitura del {
     color: var(--ll-cinza);
