@@ -210,7 +210,3 @@ P.S.: para me conhecer melhor, você pode acessar [https://rafaelmmilhomens.com]
 	1. Literacia midiática e sua urgência
 4. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão.md)
 	1. Acerca do que vemos e ignoramos
-
-## Laboratório
-
-1. [Verso & Poesia](RFZ_Verso_&_Poesia.md)
