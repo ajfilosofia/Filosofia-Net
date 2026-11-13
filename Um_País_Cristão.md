@@ -208,3 +208,5 @@ O psiquiatra suiço, Carl G. Jung afirmava que na psiquê nada se apaga e que ta
 # Conclusão
 
 Este texto tem como objetivo demonstrar como algo aparentemente simples como a ideia de olhar para o céu e dizer "aquilo será uma cruz" vai ressoar na psiquê de quem virá séculos depois. Diante do exposto, torna-se evidente que a identidade brasileira foi construída segundo uma herança simbólica densa, como a do Cruzeiro do Sul. Cuja interpretação se reflete pelo comportamento cristão da sociedade. Não é preciso, no entanto, construir um país laicista, mas um país verdadeiramente laico e rico em expressão religiosa.
+
+RFZ
