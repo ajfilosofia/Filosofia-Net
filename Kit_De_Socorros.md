@@ -271,7 +271,7 @@ Então é só commitar e fazer o pull request numa branch própria.
 
 # 6. FAQ
 
-1. Posso por imagens?
+1. Posso pôr imagens?
 	1. Faz favor! Eu, Rafz, acho que fica uma graça!
 	2. Lembre-se que é necessário deter os direitos da imagem
 2. Como corrijo um texto já postado?
