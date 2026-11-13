@@ -188,6 +188,18 @@
 
 # O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual[^1]
 
+## Sumário
+
+1. Preâmbulo
+2. Fotografia como representação da realidade
+3. Moana e Nanook
+4. Realidade/Ficção
+5. Cinema e audiovisual como linguagem e cultura
+6. Possíveis formas de interpretação do discurso da obra audiovisual
+7. Conclusão
+
+## Preâmbulo
+
 Hoje, diversas mídias permeiam o quotidiano social: Videogames/consoles, rádio, televisão, celular, computadores. E as diversas naturezas dos produtos que esses suportes reproduzem: vídeos digitais, _blue-rays,_ CD’s, vinis, fitas K-7, revistas em quadrinhos, impressas ou não, a internet e suas diversas plataformas. A relação dos sujeitos com esses meios contribui para com a maneira como enxergam o mundo e a cultura da qual fazem parte, suas referências imagéticas e sonoras, também no que se acredita, bem como os assuntos com os quais se preocupam. É comum que se diga que já se conhece um lugar porque se viu na televisão, por exemplo. Ou, que se defenda um ponto de vista à partir do que se viu em um documentário.
 {: .capitular}
 

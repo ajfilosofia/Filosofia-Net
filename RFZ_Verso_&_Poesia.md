@@ -233,3 +233,40 @@ O homem é solar
 Dá saudade quando viaja
 
 Dá fastio quando em casa
+
+## Tempo Imperdoável
+
+Não se pode mais dizer
+
+Que lamber bota
+
+Já foi do caralho!
+
+## Touko Laaksonen
+
+Ô seu puliça
+
+Olho pra tu
+
+E minha vontade 
+
+É levar baku
+
+
+Ô seu puliça
+
+Não faz mal
+
+A gente finge
+
+Que não é legal
+
+## Petite Mort
+
+Desmaio.
+
+Mesmo que seja
+
+Por resistência:
+
+Inda rugindo.

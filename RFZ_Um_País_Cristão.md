@@ -186,6 +186,14 @@
 > Para todos verem: um homem adulto com a mão no peito por debaixo do colete, como fez Napoleão, e um barquinho de papel na cabeça.
 
 # Um País Cristão - Brasil E O Cruzeiro Do Sul[^1]
+
+## Sumário
+
+1. Preâmbulo
+2. Nomes e enquadramentos
+3. Astrolábios
+4. Consequências
+5. Conclusão
 # Preâmbulo
 
 Dentre várias teorias, destaca-se uma para o seguinte texto a teoria do enquadramento de Goffman que trata da ideia de que indivíduos comportam-se segundo a sua perspectiva de determinado fato. Para que isso ocorra, é necessário que exista o que Goffman chamou de "chave", que pode ser tanto física (um objeto) quanto mental (um conceito). Essa chave dará o tom para o comportamento. Pode-se pensar também no teórico da psicologia comportamental Skinner, para quem o objeto de estudo da psicologia deveria ser o comportamento somente. Em outras palavras: aquilo que se pode descrever de forma objetiva. Obviamente, o presente texto não dispõe de extensão hábil para defender analiticamente a complementação que, à primeira vista, parece óbvia entre uma teoria e outra. No entanto, observe como a ideia de chave, no aspecto mental, está bem complementada pelo conceito de "comportamento". Com isso em vista, tem-se o seguinte exemplo: uma cruz e uma roda gigante são elementos completamente diferentes. Onde um está, comporta-se muito diferentemente de onde está o outro. O espaço que coloca-se um é muito diferente do que põe-se o outro. E ambos criam uma espécie de atmosfera própria de cada um. Ora: uma igreja e um parque de diversões, é claro! Essa explanação inicial é necessária para que se compreenda o que vem a seguir.

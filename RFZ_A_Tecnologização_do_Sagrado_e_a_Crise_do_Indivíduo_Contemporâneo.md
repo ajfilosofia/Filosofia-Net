@@ -184,10 +184,20 @@
 
 ![Hades](RFZ_Hades.jpg)
 
-# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo[^1]
-
 > Para todos verem: um sujeito com cabelos de fogo e fogo saindo pelas mãos. Veste algo como uma toga azul escura e tem o céu estrelado de mesma cor ao fundo. Sou eu fazendo *cosplay* do personagem Hades do filme Hércules da Disney.
 
+# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo[^1]
+
+## Sumário
+
+1. Resumo
+2. Introdução
+3. Análise conceitual
+4. Enquadramento Teórico
+5. Análise
+6. Discussão
+7. O sagrado contemporâneo
+8. Conclusão
 
 ## Resumo
 
@@ -202,7 +212,7 @@ A hipótese de trabalho para esse ensaio caracteriza-se pela frase "A crise não
 
 Questiona-se, portanto: Como a mediação tecnológica altera a autoridade coletiva simbólica? Por que a pluralização de sacralidades gera uma crise individual? O que distingue a mediação tecnológica da experiência religiosa?
 
-## Análise conceitual
+## Análise Conceitual
 
 Para adentrar o que vem a seguir é necessário que se distinga separadamente as seguintes categorias: (1) Religião institucional: Aquela firmada sobre uma instituição representativa (Quem exerce o poder?), como a Igreja Católica; (2) Experiência religiosa: Aquela que o indivíduo testa em seu íntimo (Como o indivíduo atribui sentido?); (3) Mito social: aquele que serve à coesão narrativa de uma comunidade (Como sociedades se mantêm coesas?).
 {: .capitular}

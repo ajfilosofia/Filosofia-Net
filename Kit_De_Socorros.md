@@ -187,7 +187,20 @@
 
 > Para todos verem: cartaz em estilo arcade com os dizeres "Filosofia-net, um canal dedicado à filosofia via XMPP. filosofia-net@canais.xmpp.social.br . Acesse pelos apps: 1. conversations 2. Gajim"
 
-# 1. O Que É Filosofia-Net?
+## Sumário
+
+1. O que é Filosofia-Net?
+2. Como publicar no blog do filosofia-net?
+	1. Fluxo das publicações
+	2. Sugestões
+3. O que é Git?
+4. O que é GitHub
+5. Como subir textos no blog?
+	1. "Não sei usar git"
+	2. "Quero subir direto no GitHub"
+	3. "Sei fazer commits, pulls and pushs"
+6. FAQ
+## 1. O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
 
@@ -213,9 +226,9 @@ Também contamos com um site em que divulgamos nossos textos autorais. Avise no 
 
 https://ajfilosofia.github.io/Filosofia-Net/
 
-# 2. Como Publicar No Blog Do Filosofia-Net?
+## 2. Como Publicar No Blog Do Filosofia-Net?
 
-## 2.1. Fluxo Das Publicações
+### 2.1. Fluxo Das Publicações
 
 0. Escreva seu texto (em linguagem Markdown preferivelmente)
 1. Faça uma conta no GitHub
@@ -230,7 +243,7 @@ https://ajfilosofia.github.io/Filosofia-Net/
 7. O colega responsável publica o texto (merge pull request)
 8. A serpente estará na terra e seu texto estará no ar
 
-## 2.2. Sugestões
+### 2.2. Sugestões
 
 1. Somos colegas, não há necessidade de editor-chefe
 2. Aprovar não é concordar
@@ -239,17 +252,17 @@ https://ajfilosofia.github.io/Filosofia-Net/
 5. Não há bastidores, comentários públicos são mais bacanas
 6. Todos revisando todos é uma maneira bacana de melhorar nosso texto
 
-# 3. O Que É Git?
+## 3. O Que É Git?
 
 Git é uma ferramenta que guarda versões de arquivos. Cada "commit" é uma forma de fotografar o estado atual do arquivo e comentá-lo. Isso permite "voltar no tempo" para os estados anteriores dos arquivos, se for necessário. Também é possível acompanhar quaisquer alterações feitas nos arquivos.
 
-# 4. O Que É GitHub?
+## 4. O Que É GitHub?
 
 GitHub é uma página online que, dentre outras coisas, principalmente guarda arquivos git online. Assim várias pessoas podem colaborar em diferentes projetos.
 
-# 5. Como Subir Textos No Blog?
+## 5. Como Subir Textos No Blog?
 
-## 5.1. "Não sei usar git"
+### 5.1. "Não sei usar git"
 
 (1) Você pode enviar seu arquivo no formato que lhe for mais conveniente para os colegas no XMPP e explicar a situação, mas a conta no GitHub será necessária para que você possa ter uma página no blog.
 
@@ -261,15 +274,15 @@ GitHub é uma página online que, dentre outras coisas, principalmente guarda ar
 4. Para corrigir seu texto, basta abrir o seu envio novamente, clicar em "..." mudar o que for necessário e salvar.
 5. O texto será publicado após a revisão
 
-## 5.2. "Quero subir direto no GitHub"
+### 5.2. "Quero subir direto no GitHub"
 
 Tenha uma conta no GitHub e faça um pull request numa branch própria no diretório do blog diretamente do navegador, pelo editor de textos do proprio GitHub.
 
-## 5.3. "Sei fazer commits, pulls and pushs"
+### 5.3. "Sei fazer commits, pulls and pushs"
 
 Então é só commitar e fazer o pull request numa branch própria.
 
-# 6. FAQ
+## 6. FAQ
 
 1. Posso pôr imagens?
 	1. Faz favor! Eu, Rafz, acho que fica uma graça!
