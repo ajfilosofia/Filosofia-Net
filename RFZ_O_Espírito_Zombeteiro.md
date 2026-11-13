@@ -183,7 +183,7 @@
 </style>
 # Rfz - O Espírito Zombeteiro
 
-![autoretrato.jpg](autoretrato.jpg)
+![RFZ_autoretrato.jpg](RFZ_autoretrato.jpg)
 
 > _Legenda para todos verem: um busto masculino sem qualquer pelo de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
 
