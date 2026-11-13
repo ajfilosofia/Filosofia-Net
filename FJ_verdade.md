@@ -62,7 +62,7 @@ O isomorfismo entre linguagem e mundo defendido pela teoria da correspondência 
 
 Com isso, pretendeu-se mostrar como o sistema de Nelson Goodman sobre a estrutura do mundo e suas descrições trataria uma concepção de verdade como a da correspondência. Apresentou-se a formulação mais sólida dessa teoria justamente para mostrar a força da posição de Goodman, bem como a insuficiência dos critérios de verdade para formas de expressão que não a descritiva.
 
-[^1] GOODMAN, Nelson. O modo como o mundo é.
+[^1]: GOODMAN, Nelson. O modo como o mundo é.
 
 
 
