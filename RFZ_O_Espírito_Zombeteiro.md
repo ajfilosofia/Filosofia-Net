@@ -188,6 +188,8 @@
 
 # Rfz - O Espírito Zombeteiro
 
+> “Então escrever é o modo de quem tem a palavra como isca: a palavra pescando o que não é palavra. Quando essa não-palavra —a entrelinha —morde a isca, alguma coisa se escreveu. Uma vez que se pescou a entrelinha, poder-se ia com alívio jogar a palavra fora. Mas aí cessa a analogia: a não palavra, ao morder a isca, incorporou-a. O que salva então é escrever distraidamente.” - Clarice Lispector, Água Viva
+
 ## Índice
 
 1. [Textos](#1-textos)
@@ -217,6 +219,11 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 
 ## [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
 
+> "[...] Todo bairro tem um louco
+> que o bairro trata bem
+> só falta mais um pouco
+> pra eu ser tratado também"
+> - Paulo Leminski
 ## Correio Elegante
 
 >Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
