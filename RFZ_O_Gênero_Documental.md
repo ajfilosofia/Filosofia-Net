@@ -193,7 +193,7 @@
 1. [Preâmbulo](#preâmbulo)
 2. [Fotografia como representação da realidade](#fotografia-como-representação-da-realidade)
 3. [Moana e Nanook](#moana-e-nanook)
-4. [Realidade/Ficção](#realidade/ficção)
+4. [Realidade/Ficção](#realidadeficção)
 5. [Cinema e audiovisual como linguagem e cultura](#cinema-e-audiovisual-como-linguagem-e-cultura)
 6. [Possíveis formas de interpretação do discurso da obra audiovisual](#possíveis-formas-de-interpretação-do-discurso-da-obra-audiovisual)
 7. [Conclusão](#conclusão)
