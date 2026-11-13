@@ -79,7 +79,7 @@
   .lista-leitura > ol > li {
     counter-increment: obra;
     position: relative;
-    padding: 1.1em 0 1.1em 3em;
+    padding: 1.1em 4em 1.1em 3em;     /* espaço à direita para o total de votos */
     border-bottom: 1px solid var(--ll-linha);
     line-height: 1.4;
   }
@@ -115,13 +115,29 @@
     margin: 0;
     display: flex;            /* elimina espaços soltos entre os nomes */
     flex-wrap: wrap;
+    counter-reset: votos;
     font-size: 1.15em;
     text-transform: none;
     letter-spacing: 0.01em;
   }
+  .lista-leitura > ol > li > ol > li > ol > li {
+    counter-increment: votos;
+  }
   .lista-leitura > ol > li > ol > li > ol > li + li::before {
     content: "·";
     margin: 0 0.6em;
+  }
+
+  /* Total de votos (contado automaticamente), à direita da linha do título */
+  .lista-leitura > ol > li > ol > li > ol::after {
+    content: counter(votos);
+    position: absolute;
+    right: 0;
+    top: 0.75em;
+    font-size: 1.6em;
+    font-weight: 300;
+    color: var(--ll-tinta);
+    letter-spacing: 0;
   }
 
   /* Anula o espaço que o tema Primer põe entre itens (desalinhava os nomes) */
@@ -135,7 +151,7 @@
 
   @media (max-width: 600px) {
     body:has(.lista-leitura) { padding: 2.5em 1em 0; }
-    .lista-leitura > ol > li { padding: 1em 0 1em 2.3em; }
+    .lista-leitura > ol > li { padding: 1em 2.5em 1em 2.3em; }
   }
 </style>
 <!-- ===== fim do estilo ===== -->
