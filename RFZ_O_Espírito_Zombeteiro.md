@@ -188,6 +188,11 @@
 
 # Rfz - O Espírito Zombeteiro
 
+## Índice
+
+1. [Textos][#1.-textos]
+2. [Verso & Poesia](#2.-https://lacra.ia.br/rafzmilhomens/)
+
 Caro leitor
 
 Sou comunicólogo e faço um monte de coisas, mas minha área não é a filosofia. Entrei pro grupo Filosofia-Net logo no começo, pois aprender e conhecer é minha paixão. Especialmente quando se faz isso em grupo.
@@ -196,7 +201,7 @@ Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aé
 Forte abraço.
 
 P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafaelmmilhomens.com).
-## Textos
+## 1. Textos
 
 > Não tão filosóficos, mas ainda reflexivos
 
@@ -208,3 +213,5 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 	1. Literacia midiática e sua urgência
 4. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão.md)
 	1. Acerca do que vemos e ignoramos
+
+# 2. [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)

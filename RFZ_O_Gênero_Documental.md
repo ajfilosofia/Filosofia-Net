@@ -190,9 +190,9 @@
 
 ## Sumário
 
-1. Preâmbulo
-2. Fotografia como representação da realidade
-3. Moana e Nanook
+1. [Preâmbulo](#preâmbulo)
+2. [Fotografia como representação da realidade](#fotografia-como-representação-da-realidade)
+3. [Moana e Nanook](#moana-e-nanook)
 4. Realidade/Ficção
 5. Cinema e audiovisual como linguagem e cultura
 6. Possíveis formas de interpretação do discurso da obra audiovisual
