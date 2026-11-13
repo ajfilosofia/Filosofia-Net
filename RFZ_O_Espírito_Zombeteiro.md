@@ -233,4 +233,4 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 
 Quer falar comigo? Eu também quero falar com você! Temos muito o que conversar...
 
-Meu e-mail: Rafzmilhomens@proton.me
+Meu e-mail: rafzmilhomens@proton.me
