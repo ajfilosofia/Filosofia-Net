@@ -193,9 +193,7 @@ Caro leitor
 Sou comunicólogo e faço um monte de coisas, mas minha área não é a filosofia. Entrei pro grupo Filosofia-Net logo no começo, pois aprender e conhecer é minha paixão. Especialmente quando se faz isso em grupo.
 Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aérea sobre muitas coisas. Espero, de coração, que com a ajuda dos meus colegas do grupo eu possa entregar raciocínios ao menos de fácil compreensão e que lhes agrade o conteúdo aqui.
 
-Forte abraço,
-
-Rfz
+Forte abraço.
 
 P.S.: para me conhecer melhor, você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
 ## Textos
