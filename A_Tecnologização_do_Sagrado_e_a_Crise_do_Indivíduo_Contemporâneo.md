@@ -272,6 +272,7 @@ A coesão social é perdida. A religião institucional e o mito social não defi
 
 Assim, emerge a questão final desse ensaio: O que pode ocupar de forma saudável e não manipulável o lugar do sagrado na vida individual e coletiva? Hoje não é mais difícil crer; mas impossível crer inocentemente. Isto é, crer sem consciência da instrumentalização da religião institucional e do mito social.
 
+
 RFZ
 
 
