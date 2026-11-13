@@ -195,7 +195,7 @@ Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aé
 
 Forte abraço.
 
-P.S.: para me conhecer melhor, você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
+P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafaelmmilhomens.com).
 ## Textos
 
 > Não tão filosóficos, mas ainda reflexivos
