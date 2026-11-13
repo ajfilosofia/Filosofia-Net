@@ -190,7 +190,7 @@
 
 ## Índice
 
-1. [Textos][#1-textos]
+1. [Textos](#1-textos)
 2. [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
 
 Caro leitor
