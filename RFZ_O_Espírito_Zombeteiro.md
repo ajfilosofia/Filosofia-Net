@@ -202,8 +202,15 @@ Rfz
 
 Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
 
+
 # Textos
 
-0. [Kit De Socorros](Kit_De_Socorros)
 1. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
-2. [Um País Cristão - Brasil E O Cruzeiro Do Sul](Um_País_Cristão)
+2. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](O_Gênero_Documental)
+3. [Um País Cristão - Brasil E O Cruzeiro Do Sul](Um_País_Cristão)
+
+---
+
+# Do Filosofia-Net
+
+[Kit De Socorros](Kit_De_Socorros)
