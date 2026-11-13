@@ -72,7 +72,7 @@
     list-style: none;
     counter-reset: obra;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     border-top: 1px solid var(--ll-linha);
   }
   .lista-leitura > ol > li {
@@ -111,7 +111,7 @@
   .lista-leitura > ol > li > ol > li > ol {
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     display: flex;            /* elimina espaços soltos entre os nomes */
     flex-wrap: wrap;
     font-size: 1.15em;
