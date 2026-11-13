@@ -1,5 +1,25 @@
+<style>
+.duas-colunas {
+  column-count: 2;
+  column-gap: 2.5rem;
+  column-rule: 1px solid #ddd;
+  text-align: justify;
+}
+
+.duas-colunas p {
+  break-inside: avoid;
+}
+
+@media (max-width: 700px) {
+  .duas-colunas {
+    column-count: 1;
+  }
+}
+</style>
+
 Um ciberespaço para trocar uma ideia descontraída sobre filosofia
 -------------------------------------------
+<div class="duas-colunas" markdown="1">
 
 No princípio era o Verbo.
 
@@ -43,6 +63,7 @@ Enfim, inúmeras perguntas que emergem do grande problema filosófico de estar v
 
 Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinuado entre pessoas que habitam o ciberespaço e se ocupam com as grandes questões da existência. É um espaço caótico, de atravessamentos, em que temas emergem e imergem com velocidades infinitas. O que resulta? o impossível em sua imprevisibilidade. 
 
+</div>
 ---
 # BLOGS
 
