@@ -147,6 +147,8 @@
 <!-- ===== fim do estilo ===== -->
 # Sobre a Gênese "発生について"
 
+[Sant' Um Único](Sant'_Um_Único)
+
 P
 
 (1) Estava relaxado,  — pleno? — não,

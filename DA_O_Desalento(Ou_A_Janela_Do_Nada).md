@@ -44,6 +44,8 @@
 <!-- ===== fim do estilo ===== -->
 # O Desalento (Ou A Janela Do Nada)
 
+[Dio Anfibio](DA_Dio_Anfibio.md)
+
 O silêncio foi a única saída para Antônio diante do absurdo. Qualquer outra via não parecia possibilidade. O desalento no ar se condensava no vidro da janela fechada. Estava frio lá fora, como as motivações das notícias da semana.
 
 O custo do alimento na subsistência é engolir com ele a palavra.
