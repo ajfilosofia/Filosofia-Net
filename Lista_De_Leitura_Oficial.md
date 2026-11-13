@@ -61,7 +61,7 @@
   body:has(.lista-leitura) blockquote {
     margin: 0 0 3em;
     padding: 0;
-    border: none;
+    border: 0 auto;
     font-style: normal;
     font-size: 0.8em;
     color: var(--ll-cinza);
