@@ -20,7 +20,8 @@
     font-feature-settings: "tnum";     /* números alinhados */
     line-height: 1.5;
     max-width: 40em;
-    padding-top: 5em;
+    margin: 0 auto;                    /* centraliza a coluna */
+    padding: 5em 1.5em 0;
   }
   body:has(.lista-leitura) h1,
   body:has(.lista-leitura) h2,
@@ -61,7 +62,7 @@
   body:has(.lista-leitura) blockquote {
     margin: 0 0 3em;
     padding: 0;
-    border: 0 auto;
+    border: none;
     font-style: normal;
     font-size: 0.8em;
     color: var(--ll-cinza);
@@ -72,7 +73,7 @@
     list-style: none;
     counter-reset: obra;
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
     border-top: 1px solid var(--ll-linha);
   }
   .lista-leitura > ol > li {
@@ -111,7 +112,7 @@
   .lista-leitura > ol > li > ol > li > ol {
     list-style: none;
     padding: 0;
-    margin: 0 auto;
+    margin: 0;
     display: flex;            /* elimina espaços soltos entre os nomes */
     flex-wrap: wrap;
     font-size: 1.15em;
@@ -130,7 +131,7 @@
   }
 
   @media (max-width: 600px) {
-    body:has(.lista-leitura) { padding-top: 2.5em; }
+    body:has(.lista-leitura) { padding: 2.5em 1em 0; }
     .lista-leitura > ol > li { padding: 1em 0 1em 2.3em; }
   }
 </style>
