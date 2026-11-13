@@ -201,16 +201,19 @@ Forte abraço,
 Rfz
 
 Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
+## Textos
 
-## Comece Por Aqui
+> Não tão filosóficos, mas ainda reflexivos
 
-- [Textos](RFZ_Textos.md) 
-	- Textos não tão filosóficos, mas reflexivos
-- [Verso & Poesia](RFZ_Verso_&_Poesia.md)
-	- Poesia com e sem aspas
+1. [Kit De Socorros](Kit_De_Socorros)
+	1. Guia para publicar no Filosofia-Net
+2. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](RFZ_A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo.md)
+	1. Algaravias bruxuleantes sobre a ideia de colocar um copo d'água na frente da TV para ser abençoado
+3. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](RFZ_O_Gênero_Documental.md)
+	1. Literacia midiática e sua urgência
+4. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão.md)
+	1. Acerca do que vemos e ignoramos
 
----
-## Do Filosofia-Net
+# Laboratório
 
-- [Kit De Socorros](Kit_De_Socorros)
-	- Guia para publicar no Filosofia-Net
+1. [Verso & Poesia](RFZ_Verso_&_Poesia.md)
