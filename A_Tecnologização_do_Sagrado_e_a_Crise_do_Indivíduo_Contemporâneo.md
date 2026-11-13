@@ -181,7 +181,7 @@
   }
     .markdown-body p { margin: 0; }
 </style>
-# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo
+# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo[^1]
 
 ![Hades](Hades.jpg)
 
@@ -272,7 +272,6 @@ A coesão social é perdida. A religião institucional e o mito social não defi
 
 Assim, emerge a questão final desse ensaio: O que pode ocupar de forma saudável e não manipulável o lugar do sagrado na vida individual e coletiva? Hoje não é mais difícil crer; mas impossível crer inocentemente. Isto é, crer sem consciência da instrumentalização da religião institucional e do mito social.
 
+R.F.Z.
 
-RFZ
-
-
+[^1]: RFZ é pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília – UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**”: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros (rafzmilhomens@proton.me).
