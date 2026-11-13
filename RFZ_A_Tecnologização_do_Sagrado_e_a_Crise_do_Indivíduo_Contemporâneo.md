@@ -182,6 +182,8 @@
     .markdown-body p { margin: 0; }
 </style>
 
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
+
 ![Hades](RFZ_Hades.jpg)
 
 > Para todos verem: um sujeito com cabelos de fogo e fogo saindo pelas mãos. Veste algo como uma toga azul escura e tem o céu estrelado de mesma cor ao fundo. Sou eu fazendo *cosplay* do personagem Hades do filme Hércules da Disney.
@@ -286,3 +288,5 @@ Assim, emerge a questão final desse ensaio: O que pode ocupar de forma saudáve
 Rfz
 
 [^1]: Rfz é pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília – UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**”: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros (rafzmilhomens@proton.me).
+
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
