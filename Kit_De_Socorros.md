@@ -190,17 +190,17 @@
 
 ## Sumário
 
-1. O que é Filosofia-Net?
-2. Como publicar no blog do filosofia-net?
-	1. Fluxo das publicações
-	2. Sugestões
-3. O que é Git?
-4. O que é GitHub
-5. Como subir textos no blog?
-	1. "Não sei usar git"
-	2. "Quero subir direto no GitHub"
-	3. "Sei fazer commits, pulls and pushs"
-6. FAQ
+1. [O que é Filosofia-Net?](#1-o-que-é-filosofia-net?)
+2. [Como publicar no blog do filosofia-net?](#2-como-publicar- no-blog-do-filosofia-net?)
+	1. [Fluxo das publicações](#21-fluxo-das-publicações)
+	2. [Sugestões](22-sugestões)
+3. [O que é Git?](#3-o-que-é-git?)
+4. [O que é GitHub](4-o-que-é-github)
+5. [Como subir textos no blog?](#5-como-subir-textos-no-blog?)
+	1. ["Não sei usar git"](51-não-sei-usar-git)
+	2. ["Quero subir direto no GitHub"](#52-quero-subir-direto-no-github)
+	3. ["Sei fazer commits, pulls and pushs"](#53-sei-fazer-commits-pulls-and-pushs)
+6. [FAQ](#faq)
 ## 1. O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
