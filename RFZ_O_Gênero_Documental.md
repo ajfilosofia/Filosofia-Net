@@ -182,7 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
-![esquadros](esquadros.jpeg)
+![esquadros](RFZ_esquadros.jpeg)
 
 > Para todos verem: um homem adulto com olhos desenhados em uma armação de óculos escuros em seu rosto por detrás de uma moldura vazia.
 

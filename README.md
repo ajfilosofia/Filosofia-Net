@@ -46,7 +46,7 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 ---
 # BLOGS
 
-- [Dio Anfibio](Dio_Anfibio)
+- [Dio Anfibio](DA_Dio_Anfibio.md)
 - [FJ O Louco](FJ_O_Louco)
 - [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 - [Sant' Um Único](Sant'_Um_Único)

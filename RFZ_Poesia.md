@@ -182,12 +182,46 @@
     .markdown-body p { margin: 0; }
 </style>
 
-# Textos
+# Poesia
 
-![Juramento](Juramento.jpg)
-> Para todos verem: um homem com o rosto em direção a luz, uma das mãos levantadas e um livro apoiado na outra.
+![Frágil](RFZ_frágil.jpeg)
 
+> Para todos verem: um homem com o coração de material vítreo exposto
 
-1. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
-2. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](O_Gênero_Documental)
-3. [Um País Cristão - Brasil E O Cruzeiro Do Sul](Um_País_Cristão)
+## Milhomens
+
+Carrego em meu nome a essência do meu ser
+
+Milhomens
+
+dos que se deitaram comigo
+
+dos que me amam;
+
+dos que amei…
+
+Milhomens
+
+daqueles que fui
+
+dos que sou
+
+e quais serei
+
+Milhomens
+
+de afetos
+
+objetos
+
+alvos
+
+e dor.
+
+Milhomens
+
+Dentre eles
+
+o que se pergunta
+
+qual sou?

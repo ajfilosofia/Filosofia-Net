@@ -203,9 +203,9 @@ Rfz
 Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
 
 
-# [Textos](Textos)
+# [RFZ_Textos](RFZ_Textos.md)
 
-# [Poesia](Poesia)
+# [RFZ_Poesia](RFZ_Poesia.md)
 
 ---
 
