@@ -192,6 +192,7 @@
 
 1. [Textos](#1-textos)
 2. [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
+3. [Correio Elegante](#correio-elegante)
 
 Caro leitor
 
@@ -215,3 +216,11 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 	1. Acerca do que vemos e ignoramos
 
 ## [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
+
+## Correio Elegante
+
+>Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
+
+Quer falar comigo? Eu também quero falar com você! Temos muito o que conversar...
+
+Rafzmilhomens@proton.me
