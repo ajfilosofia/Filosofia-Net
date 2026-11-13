@@ -47,3 +47,4 @@ F.J.
 # Textos:
 1. [A dose certa do remédio: Epicuro e a resiliência](FJ_resiliencia)
 2. [Mundo e correspondência](FJ_verdade).
+3. [Sobre a origem da obra de arte](FJ_origem_obra_arte).
