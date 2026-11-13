@@ -258,6 +258,42 @@
 28. Tristes Trópicos (Lévi-Strauss) {rafzmilhomens}
 	1. Votos
 		1. rafzmilhomens
+29. O Conceito De Angustia (Kierkegaard) {dio anfibio}
+	1. Votos
+		1. dio anfibio
+		2. rafzmilhomens
+30. O Desespero Humano (Kierkegaard) {dio anfibio}
+	1. Votos
+		1. dio anfibio
+		2. rafzmilhomens
+31. O Ser E O Nada (Sarte) {dio anfibio}
+	1. Votos
+		1. dio anfibio
+		2. rafzmilhomens
+32. Cem Anos De Solidão (Gabriel García Marquez) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+33. Problemas de Gênero (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+34. Bodies That Matter (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+35. Desfazendo Gênero (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+36. Vida Precária (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+37. Quadros De Guerra (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+38. A Força Da Não Violência (Butler) {rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
+39. O Desaparecimento Dos Rituais (Han){rafzmilhomens}
+	1. Votos
+		1. rafzmilhomens
 
 </div>
 
