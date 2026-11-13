@@ -182,11 +182,11 @@
     .markdown-body p { margin: 0; }
 </style>
 
-# Verso & Poesia
 
 ![Frágil](RFZ_frágil.jpeg)
-
 > Para todos verem: um homem com o coração de material vítreo exposto
+
+# Verso & Poesia
 
 ## Milhomens
 

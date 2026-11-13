@@ -181,9 +181,10 @@
   }
     .markdown-body p { margin: 0; }
 </style>
-# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo[^1]
 
 ![Hades](RFZ_Hades.jpg)
+
+# A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo[^1]
 
 > Para todos verem: um sujeito com cabelos de fogo e fogo saindo pelas mãos. Veste algo como uma toga azul escura e tem o céu estrelado de mesma cor ao fundo. Sou eu fazendo *cosplay* do personagem Hades do filme Hércules da Disney.
 
