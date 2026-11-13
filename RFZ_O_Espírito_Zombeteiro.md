@@ -172,6 +172,14 @@
     h1 { font-size: 1.9em; }
     p { text-align: left; } /* justificado em tela estreita abre "rios" de espaço */
   }
+  /* Corpo do texto em EB Garamond (o tema Primer sobrescrevia) */
+  .markdown-body {
+    font-family: "EB Garamond", Garamond, "Times New Roman", serif;
+    font-size: 1.25rem;
+    line-height: 1.55;
+    color: var(--tinta);
+  }
+    .markdown-body p { margin: 0; }
 </style>
 # RFZ - O Espírito Zombeteiro
 

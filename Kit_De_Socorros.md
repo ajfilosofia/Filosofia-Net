@@ -172,6 +172,14 @@
     h1 { font-size: 1.9em; }
     p { text-align: left; } /* justificado em tela estreita abre "rios" de espaço */
   }
+  /* Corpo do texto em EB Garamond (o tema Primer sobrescrevia) */
+  .markdown-body {
+    font-family: "EB Garamond", Garamond, "Times New Roman", serif;
+    font-size: 1.25rem;
+    line-height: 1.55;
+    color: var(--tinta);
+  }
+    .markdown-body p { margin: 0; }
 </style>
 # Kit De Socorros[^1]
 
@@ -182,7 +190,7 @@
 # 1. O Que É Filosofia-Net?
 
 Seja bem-vindo ao canal Filosofia-net!
-{: .capitular}
+
 
 Fique à vontade para conversar e trocar ideia sobre filosofia e áreas afins.
 
@@ -234,11 +242,11 @@ https://ajfilosofia.github.io/Filosofia-Net/
 # 3. O Que É Git?
 
 Git é uma ferramenta que guarda versões de arquivos. Cada "commit" é uma forma de fotografar o estado atual do arquivo e comentá-lo. Isso permite "voltar no tempo" para os estados anteriores dos arquivos, se for necessário. Também é possível acompanhar quaisquer alterações feitas nos arquivos.
-{: .capitular}
+
 # 4. O Que É GitHub?
 
 GitHub é uma página online que, dentre outras coisas, principalmente guarda arquivos git online. Assim várias pessoas podem colaborar em diferentes projetos.
-{: .capitular}
+
 # 5. Como Subir Textos No Blog?
 
 ## 5.1. "Não sei usar git"
@@ -256,11 +264,11 @@ GitHub é uma página online que, dentre outras coisas, principalmente guarda ar
 ## 5.2. "Quero subir direto no GitHub"
 
 Tenha uma conta no GitHub e faça um pull request numa branch própria no diretório do blog diretamente do navegador, pelo editor de textos do proprio GitHub.
-{: .capitular}
+
 ## 5.3. "Sei fazer commits, pulls and pushs"
 
 Então é só commitar e fazer o pull request numa branch própria.
-{: .capitular}
+
 # 6. FAQ
 
 1. Posso por imagens?
