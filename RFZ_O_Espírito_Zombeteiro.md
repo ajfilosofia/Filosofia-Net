@@ -181,7 +181,7 @@
   }
     .markdown-body p { margin: 0; }
 </style>
-# RFZ - O Espírito Zombeteiro
+# Rfz - O Espírito Zombeteiro
 
 ![autoretrato.jpg](autoretrato.jpg)
 
@@ -198,7 +198,7 @@ Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aé
 
 Forte abraço,
 
-RFZ
+Rfz
 
 Post Scriptum: para me conhecer melhor você pode acessar [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com)
 
