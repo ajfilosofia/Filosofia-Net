@@ -4,6 +4,7 @@
   column-gap: 2.5rem;
   column-rule: 1px solid #ddd;
   text-align: justify;
+  font-style: italic;
 }
 
 .duas-colunas p {
