@@ -46,11 +46,12 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 ---
 # BLOGS
 
-- [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
-- [FJ O Louco](FJ_O_Louco)
-- [Sant' Um Único](Sant'_Um_Único)
 - [Dio Anfibio](Dio_Anfibio)
-  
+- [FJ O Louco](FJ_O_Louco)
+- [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
+- [Sant' Um Único](Sant'_Um_Único)
+
+
 ---
 # LISTA DE LEITURA DO FILOSOFIA-NET
 
