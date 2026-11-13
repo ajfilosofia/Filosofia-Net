@@ -2,7 +2,7 @@
      Colar no topo de cada .md dele (a página principal e cada texto). ===== -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=UnifrakturMaguntia&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Grenze+Gotisch:wght@400..800&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
   :root {
@@ -63,8 +63,8 @@
 
   /* Título da página: letra gótica */
   .markdown-body > h1:nth-of-type(2) {
-    font-family: "UnifrakturMaguntia", "Bodoni Moda", serif;
-    font-weight: 400;
+    font-family: "Grenze Gotisch", "Bodoni Moda", serif;
+    font-weight: 600;
     text-transform: none;
     letter-spacing: 0;
     font-size: 3.4em;
