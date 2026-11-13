@@ -182,11 +182,10 @@
     .markdown-body p { margin: 0; }
 </style>
 
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
-
 ![navegante](RFZ_navegante.jpg)
 > Para todos verem: um homem adulto com a mão no peito por debaixo do colete, como fez Napoleão, e um barquinho de papel na cabeça.
 
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 # Um País Cristão - Brasil E O Cruzeiro Do Sul[^1]
 
 ## Sumário
@@ -231,8 +230,6 @@ O psiquiatra suiço, Carl G. Jung afirmava que na psiquê nada se apaga e que ta
 Este texto tem como objetivo demonstrar como algo aparentemente simples como a ideia de olhar para o céu e dizer "aquilo será uma cruz" vai ressoar na psiquê de quem virá séculos depois. Diante do exposto, torna-se evidente que a identidade brasileira foi construída segundo uma herança simbólica densa, como a do Cruzeiro do Sul. Cuja interpretação se reflete pelo comportamento cristão da sociedade. Não é preciso, no entanto, construir um país laicista, mas um país verdadeiramente laico e rico em expressão religiosa.
 {: .capitular}
 
-Rfz
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 
 [^1]: Rfz é pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília – UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**”: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros (rafzmilhomens@proton.me).
-
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)

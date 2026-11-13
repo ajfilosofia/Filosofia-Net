@@ -182,12 +182,11 @@
     .markdown-body p { margin: 0; }
 </style>
 
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
-
 ![esquadros](RFZ_esquadros.jpeg)
 
 > Para todos verem: um homem adulto com olhos desenhados em uma armação de óculos escuros em seu rosto por detrás de uma moldura vazia.
 
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 # O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual[^1]
 
 ## Sumário
@@ -281,7 +280,7 @@ Documentário é apenas um dos vários gêneros que uma obra audiovisual pode as
 
 Faz-se necessário, portanto, o desenvolvimento de uma ferramenta que sistematize os elementos básicos da linguagem ausiovisual, tal como a gramática para as letras. Tendo em vista a permeabilidade dessa linguagem na vida contemporânea.
 
-Rfz
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 
 publicado pela primeira vez em 01/04/2018 - Brasília - DF
 
