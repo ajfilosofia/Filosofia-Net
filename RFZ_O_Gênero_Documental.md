@@ -186,9 +186,9 @@
 
 > Para todos verem: um homem adulto com olhos desenhados em uma armação de óculos escuros em seu rosto por detrás de uma moldura vazia.
 
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 # O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual[^1]
 
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 ## Sumário
 
 1. [Preâmbulo](#preâmbulo)
