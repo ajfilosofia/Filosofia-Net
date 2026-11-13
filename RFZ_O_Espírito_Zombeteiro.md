@@ -192,11 +192,12 @@
 
 ## Índice
 
-1. [Textos](#1-textos)
-2. [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
-3. [Correio Elegante](#correio-elegante)
+1. [Caro Leitor](#caro-leitor)
+2. [Textos](#textos)
+3. [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
+4. [Correio Elegante](#correio-elegante)
 
-Caro leitor
+## Caro leitor
 
 Sou comunicólogo e faço um monte de coisas, mas minha área não é a filosofia. Entrei pro grupo Filosofia-Net logo no começo, pois aprender e conhecer é minha paixão. Especialmente quando se faz isso em grupo.
 Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aérea sobre muitas coisas. Espero, de coração, que com a ajuda dos meus colegas do grupo eu possa entregar raciocínios ao menos de fácil compreensão e que lhes agrade o conteúdo aqui.
@@ -204,7 +205,7 @@ Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aé
 Forte abraço.
 
 P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafaelmmilhomens.com).
-## 1. Textos
+## Textos
 
 > Não tão filosóficos, mas ainda reflexivos
 
