@@ -299,7 +299,7 @@ Acho difícil. Pois todo deus precisa de um veículo para se manifestar. Mas nen
 Daí minha resposta a "filosofia serve pra algo?": serve sim. Vai servir sempre. Mas e a Filosofia? Essa não tem obrigação com nada e com ninguém. Morre-se e vive-se por ela. Mas eu sou humano e, saudando [Sant' Um Único](Sant'_Um_Único) mais uma vez, como dizia Raul Seixas  "Eu não sou besta pra tirar onda de herói", quem quiser que tome sua cicuta (não literal) em nome de seus ideais. Eu ainda tenho de lavar minhas louças.
 {: .capitular}
 
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro), 14 de Novembro de 2026 às 15h30, Brasília - DF, Brasil
 
 
 [^1]: Rfz é pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília – UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**”: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros (rafzmilhomens@proton.me).
