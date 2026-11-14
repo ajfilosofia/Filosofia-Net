@@ -182,7 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
-![Hades](RFZ_Hades.jpg)
+![Hades](/img/RFZ_Hades.jpg)
 
 > Para todos verem: um sujeito com cabelos de fogo e fogo saindo pelas mãos. Veste algo como uma toga azul escura e tem o céu estrelado de mesma cor ao fundo. Sou eu fazendo *cosplay* do personagem Hades do filme Hércules da Disney.
 

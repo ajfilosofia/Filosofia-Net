@@ -182,7 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
-![navegante](RFZ_navegante.jpg)
+![navegante](/img/RFZ_navegante.jpg)
 > Para todos verem: um homem adulto com a mão no peito por debaixo do colete, como fez Napoleão, e um barquinho de papel na cabeça.
 
 # Um País Cristão - Brasil E O Cruzeiro Do Sul[^1]

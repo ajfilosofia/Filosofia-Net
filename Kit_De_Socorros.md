@@ -182,7 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
-![Filosofia-Net.jpg](Filosofia-Net.jpg)
+![Filosofia-Net.jpg](/img/Filosofia-Net.jpg)
 
 > Para todos verem: cartaz em estilo arcade com os dizeres "Filosofia-net, um canal dedicado à filosofia via XMPP. filosofia-net@canais.xmpp.social.br . Acesse pelos apps: 1. conversations 2. Gajim"
 
