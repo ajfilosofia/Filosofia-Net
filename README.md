@@ -28,7 +28,8 @@ O Ser que é absorvido pelo dígito.
 Eis onde estamos: na era do ciberespaço.  
 Mundo híbridos de seres ciborgues.  
 Onde as fronteiras entre natural e o artificial são borradas.  
-Onde tudo foi deslocado, desde a cultura até a política, passando pela economia e os afetos.  
+Onde tudo foi deslocado, desde a cultura até a política,  
+passando pela economia e os afetos.  
 Mas há algo que não mudou!  
 Algo que não se esgota, por mais que possa ser adormecido.  
 O pensamento!  
@@ -47,16 +48,15 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 
 <aside class="coluna-lateral" markdown="1">
 
-# BLOGS
+## BLOGS
 
 - [Dio Anfibio](DA_Dio_Anfibio.md)
 - [FJ O Louco](FJ_O_Louco)
 - [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 - [Sant' Um Único](Sant'_Um_Único)
 
-
 ---
-# LISTA DE LEITURA DO FILOSOFIA-NET
+## LISTA DE LEITURA DO FILOSOFIA-NET
 
 - [Lista De Leitura Oficial](Lista_De_Leitura_Oficial)
 
