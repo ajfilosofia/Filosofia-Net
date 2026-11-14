@@ -182,6 +182,7 @@
     .markdown-body p { margin: 0; }
 </style>
 
+![questão](questão.jpeg)
 # Para Que Serve A Filosofia? Sobre Os Privilégios Nas Torres De Marfim[^1]
 
 [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
