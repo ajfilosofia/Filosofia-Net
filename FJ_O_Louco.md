@@ -48,3 +48,4 @@ F.J.
 1. [A dose certa do remédio: Epicuro e a resiliência](FJ_resiliencia)
 2. [Mundo e correspondência](FJ_verdade).
 3. [Sobre a origem da obra de arte](FJ_origem_obra_arte).
+4. [Wittgenstein: sobre a possibilidade de uma linguagem privada](FJ_linguagem-privada)
