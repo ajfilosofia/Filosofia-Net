@@ -195,7 +195,7 @@
 1. [Jogo no fresstyle](#1-jogo-no-freestyle)
 2. [O que é filosofia?](#2-o-que-é-filosofia)
 	1. [O nome não é a coisa](#21-o-nome-não-é-a-coisa)
-	2. [o nome não é só comida. É comida, diversão e arte](#211-o-nome-não-é-só-comida-é-comida-diversão-e-arte)
+	2. [O nome não é só comida. É comida, diversão e arte](#211-o-nome-não-é-só-comida-é-comida-diversão-e-arte)
 	3. [A perspectiva síncrona](#212-a-perspectiva-síncrona)
 	4. [A perspectiva assíncrona](#213-a-perspectiva-assíncrona)
 	5. [Frigir dos ovos](#214-frigir-dos-ovos)
@@ -296,6 +296,8 @@ Acho difícil. Pois todo deus precisa de um veículo para se manifestar. Mas nen
 
 Daí minha resposta é "filosofia serve pra algo?". Serve sim. Vai servir sempre. Mas e a Filosofia? Essa não tem obrigação com nada e com ninguém. Morre-se e vive-se por ela. Mas eu sou humano e, saudando [Sant' Um Único](Sant'_Um_Único) mais uma vez, como dizia Raul Seixa s "Eu não sou besta pra tirar onda de herói", quem quiser que tome sua cicuta (não literal) em nome de seus ideais. Eu ainda tenho de lavar minhas louças.
 {: .capitular}
+
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 
 
 [^1]: Rfz é pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília – UnB). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**”: uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros (rafzmilhomens@proton.me).
