@@ -216,7 +216,7 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 	1. Algaravias bruxuleantes sobre a ideia de colocar um copo d'água na frente da TV para ser abençoado
 3. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](RFZ_O_Gênero_Documental)
 	1. Literacia midiática e sua urgência
-4. [Para Que Serve A Filosofia?](RFZPara_Que_Serve_A_Filosofia?)
+4. [Para Que Serve A Filosofia?](RFZ_Para_Que_Serve_A_Filosofia?)
 	1. Uma viagem sobre nomes imagens, nomes imagens nomes.
 5. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão)
 	1. Acerca do que vemos e ignoramos
