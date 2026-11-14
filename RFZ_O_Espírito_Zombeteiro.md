@@ -227,6 +227,8 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 > pra eu ser tratado também"
 > Paulo Leminski
 
+Também escrevo poesia. Mas em outro blog. Se você tiver interesse o título é o link para o blog. Só clicar. Talvez eu poetize melhor do que filosofe...
+
 ## Correio Elegante
 
 >Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
