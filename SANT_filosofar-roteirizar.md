@@ -149,7 +149,7 @@
 
 [Sant' Um Único](Sant'_Um_Único)
 
-![Macaco datilografando](macaco-escrevendo.jpg)
+![Macaco datilografando](/img/macaco-escrevendo.jpg)
 
 
 O pensamento filosófico é caracterizado sempre como um teorizar acerca da realidade (cosmologia & ontologia) e do meio de conhecimento dela (lógica & epistemologia); entendemos portanto o filosofar como a prática do filósofo na produção de seu sistema filosófico, ou seja, do quadro teórico o qual a realidade e o discurso estarão sendo avaliados.
