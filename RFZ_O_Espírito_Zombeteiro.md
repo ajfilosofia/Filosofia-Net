@@ -224,15 +224,17 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 
 ## [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
 
+![frágil](/img/frágil.jpeg)
+> Para todos verem: um homem careca e barbudo com o peito aberto. No buraco há um coração vítreo. Sou eu sendo dramático
+
+Também escrevo poesia. Mas em outro blog. Se você tiver interesse o título é o link para o blog. Só clicar. Talvez eu poetize melhor do que filosofe...
+{: .capitular}
+
 > "[...] Todo bairro tem um louco
 > que o bairro trata bem
 > só falta mais um pouco
 > pra eu ser tratado também"
 > Paulo Leminski
-
-Também escrevo poesia. Mas em outro blog. Se você tiver interesse o título é o link para o blog. Só clicar. Talvez eu poetize melhor do que filosofe...
-{: .capitular}
-
 ## Correio Elegante
 
 >Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
