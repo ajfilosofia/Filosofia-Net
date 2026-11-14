@@ -184,6 +184,8 @@
 
 ![questão](/img/questão.jpeg)
 > Para todos verem: homem peludo sem camisa, com barba encarando um pomo de uma fruta qualquer. Como que perguntasse "Ser ou não ser?"
+
+
 # Para Que Serve A Filosofia? Sobre Os Privilégios Nas Torres De Marfim[^1]
 
 [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
