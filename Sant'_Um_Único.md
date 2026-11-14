@@ -150,3 +150,4 @@
 # Textos
 
 - [Sobre A Gênese "発生について"](Sobre_A_Gênese)
+- [O filosofar é o mesmo que roteirizar](SANT_filosofar-roteirizar)
