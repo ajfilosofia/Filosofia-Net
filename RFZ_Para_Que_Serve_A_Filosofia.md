@@ -266,7 +266,7 @@ Para este texto filosofia é um nome, uma etiqueta, uma referencia, uma caixa gi
 Mas agora só resolvemos parte do problema. Sabemos o que é filosofia para este contexto. Mas para que serve isso tudo? Aí eu te direi: além de haver a etiqueta, que é o nome e o conceito, há a função da etiqueta. Ora, quem faz etiquetas quer organizar coisas a partir de alguma perspectiva e com alguma finalidade. Pode-ser organizar peças Lego, por exemplo, de várias formas: cor, cheiro, textura, tamanho, forma...
 {: .capitular}
 
-Mas há aqueles que desejam chegar à raíz das coisas. O que seria discutir o conceito si: a etiqueta. O que é? Quem criou? Quando? Para quê? Esse é o plano etéreo da coisa. Onde cabe toda a investigação do que é que nos leva a pensar como pensamos.
+Mas há aqueles que desejam chegar à raíz das coisas. O que seria discutir o conceito em si: a etiqueta. O que é? Quem criou? Quando? Para quê? Esse é o plano etéreo da coisa. Onde cabe toda a investigação do que é que nos leva a pensar como pensamos.
 
 A primeira forma é o plano concreto, que diz "já que pensamos assim, que faremos com isso?". Ambas as formas têm suas vantagens e desvantagens. E ambas válidas e necessárias. O problema é quando tentamos confundir uma com a outra e misturar as duas. Chamo isso de fazer regras. "Chamo filosofia de x e x é assim, portanto, todos que fazem x devem fazer assim". Calma lá!
 
