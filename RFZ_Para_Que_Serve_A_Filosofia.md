@@ -183,11 +183,28 @@
 </style>
 
 ![questão](/img/questão.jpeg)
+> Para todos verem: homem peludo sem camisa, com barba encarando um pomo de uma fruta qualquer. Como que perguntasse "Ser ou não ser?"
 # Para Que Serve A Filosofia? Sobre Os Privilégios Nas Torres De Marfim[^1]
 
 [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 
 > Escrevi esse texto ouvindo Funk e não quis parar de ouvir para escrever
+
+## Sumário
+
+1. [Jogo no fresstyle](#1-jogo-no-freestyle)
+2. [O que é filosofia?](#2-o-que-é-filosofia)
+	1. [O nome não é a coisa](#21-o-nome-não-é-a-coisa)
+	2. [o nome não é só comida. É comida, diversão e arte](#211-o-nome-não-é-só-comida-é-comida-diversão-e-arte)
+	3. [A perspectiva síncrona](#212-a-perspectiva-síncrona)
+	4. [A perspectiva assíncrona](#213-a-perspectiva-assíncrona)
+	5. [Frigir dos ovos](#214-frigir-dos-ovos)
+3. [Dois planos (concreto e etéreo)](#3-dois-planos-concreto-e-etéreo)
+4. [Serve para algo?](#4-serve-para-algo)
+	1. [Sim](#41-sim)
+	2. [Mas também não](#42-mas-também-não)
+	3. [No plano concreto, é possível que não sirva?](#43-no-plano-concreto-é-possível-que-não-sirva)
+5. [Conclusão](#5-conclusão)
 
 ## 1. Jogo No *Freestyle*
 
