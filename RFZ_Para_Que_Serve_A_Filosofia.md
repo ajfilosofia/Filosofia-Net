@@ -235,7 +235,7 @@ Não se pode definir o indivíduo como amarelo a partir do IBGE se a ideia não 
 
 Vejo muitas vezes pessoas que entendem classificações como "gay, bi, hétero" como leis calcadas em pedra sob as quais o indivíduo não pode fluir por entre e através, pois isso além de "caracterizar um crime" também caracterizaria uma "transgressão desses tipos". Ora, somos humanos. Não cabemos em conceitos. E isso é potência para ser além. Quero dizer que o nome serve como uma bandeira, um indicador de "você pode se juntar a nós e agir como um grupo em determinado contexto, pois isso será socialmente benéfico para você e para nós". Mas o sujeito não define o grupo nem o grupo define o sujeito.
 
-Os conceitos são assim. As palavras, no geral, trazem coisas à mente, mas não presentificam aquilo em matéria. Se eu digo "garfo" você pensa num gargo, mas não surge um garfo a partir da palavra na minha mão. E nem o garfo que você imagina é exatamente igual ao que eu me refiro.
+Os conceitos são assim. As palavras, no geral, trazem coisas à mente, mas não presentificam aquilo em matéria. Se eu digo "garfo" você pensa num garfo, mas não surge um garfo a partir da palavra na minha mão. E nem o garfo que você imagina é exatamente igual ao que eu me refiro.
 
 Com a filosofia a coisa acontece de maneira semelhante. É uma palavra com contexto de mais ou menos uns 8 mil anos de história. Talvez muito mais que isso, dependendo do critério. Pode-se considerar filosofia como a surgida dos gregos, que cunharam o termo, e parte-se daí. Pode-se considerar filosofia como qualquer coisa que se aproxime do que é contemplado pelo termo e parte-se de um lugar muito diferente.
 
