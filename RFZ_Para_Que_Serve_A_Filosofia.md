@@ -296,7 +296,7 @@ Acho difícil. Pois todo deus precisa de um veículo para se manifestar. Mas nen
 
 ## 5. Conclusão
 
-Daí minha resposta a "filosofia serve pra algo?". Serve sim. Vai servir sempre. Mas e a Filosofia? Essa não tem obrigação com nada e com ninguém. Morre-se e vive-se por ela. Mas eu sou humano e, saudando [Sant' Um Único](Sant'_Um_Único) mais uma vez, como dizia Raul Seixa s "Eu não sou besta pra tirar onda de herói", quem quiser que tome sua cicuta (não literal) em nome de seus ideais. Eu ainda tenho de lavar minhas louças.
+Daí minha resposta a "filosofia serve pra algo?": serve sim. Vai servir sempre. Mas e a Filosofia? Essa não tem obrigação com nada e com ninguém. Morre-se e vive-se por ela. Mas eu sou humano e, saudando [Sant' Um Único](Sant'_Um_Único) mais uma vez, como dizia Raul Seixa s "Eu não sou besta pra tirar onda de herói", quem quiser que tome sua cicuta (não literal) em nome de seus ideais. Eu ainda tenho de lavar minhas louças.
 {: .capitular}
 
 [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
