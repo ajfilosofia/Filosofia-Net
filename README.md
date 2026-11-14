@@ -1,4 +1,8 @@
 <style>
+
+header, .site-header, .page-header, .site-title {
+  text-align: center;
+} 
   .duas-colunas {
     display: flex;
     gap: 2rem;
@@ -6,6 +10,9 @@
   }
   .coluna-texto { flex: 2; min-width: 0; }
   .coluna-lateral { flex: 1; min-width: 0; }
+  .coluna-lateral h1 {
+  text-align: left;
+}
 
   /* No celular, as colunas empilham */
   @media (max-width: 700px) {
