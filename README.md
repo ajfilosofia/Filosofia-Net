@@ -1,8 +1,7 @@
 <style>
+  h1 { text-align: center !important; }
+  .subtitulo { text-align: center; }
 
-header, .site-header, .page-header, .site-title {
-  text-align: center;
-} 
   .duas-colunas {
     display: flex;
     gap: 2rem;
@@ -10,18 +9,14 @@ header, .site-header, .page-header, .site-title {
   }
   .coluna-texto { flex: 2; min-width: 0; }
   .coluna-lateral { flex: 1; min-width: 0; }
-  .coluna-lateral h1 {
-  text-align: left;
-}
 
-  /* No celular, as colunas empilham */
   @media (max-width: 700px) {
     .duas-colunas { flex-direction: column; }
   }
 </style>
 
-Um ciberespaço para trocar uma ideia descontraída sobre filosofia
--------------------------------------------
+<h2 class="subtitulo">Um ciberespaço para trocar uma ideia descontraída sobre filosofia</h2>
+
 <div class="duas-colunas">
 
 <div class="coluna-texto" markdown="1">
@@ -57,7 +52,7 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 
 ## BLOGS
 
-- [Dio Anfibio](DA_Dio_Anfibio.md)
+- [Dio Anfibio](DA_Dio_Anfibio)
 - [FJ O Louco](FJ_O_Louco)
 - [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 - [Sant' Um Único](Sant'_Um_Único)
