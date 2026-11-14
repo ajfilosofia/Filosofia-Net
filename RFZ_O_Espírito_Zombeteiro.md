@@ -200,6 +200,7 @@
 ## Caro leitor
 
 Sou comunicólogo e faço um monte de coisas, mas minha área não é a filosofia. Entrei pro grupo Filosofia-Net logo no começo, pois aprender e conhecer é minha paixão. Especialmente quando se faz isso em grupo.
+{: .capitular}
 
 Meus textos devem passar por muitos assuntos, pois eu sou meio de ter visão aérea sobre muitas coisas. Espero, de coração, que com a ajuda dos meus colegas do grupo eu possa entregar raciocínios ao menos de fácil compreensão e que lhes agrade o conteúdo aqui.
 
@@ -230,11 +231,13 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 > Paulo Leminski
 
 Também escrevo poesia. Mas em outro blog. Se você tiver interesse o título é o link para o blog. Só clicar. Talvez eu poetize melhor do que filosofe...
+{: .capitular}
 
 ## Correio Elegante
 
 >Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
 
 Quer falar comigo? Eu também quero falar com você! Temos muito o que conversar...
+{: .capitular}
 
 Meu e-mail: rafzmilhomens@proton.me
