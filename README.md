@@ -1,26 +1,23 @@
 <style>
-.duas-colunas {
-  column-count: 2;
-  column-gap: 2.5rem;
-  column-rule: 1px solid #ddd;
-  text-align: justify;
-  font-style: italic;
-}
-
-.duas-colunas p {
-  break-inside: avoid;
-}
-
-@media (max-width: 700px) {
   .duas-colunas {
-    column-count: 1;
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
   }
-}
+  .coluna-texto { flex: 2; min-width: 0; }
+  .coluna-lateral { flex: 1; min-width: 0; }
+
+  /* No celular, as colunas empilham */
+  @media (max-width: 700px) {
+    .duas-colunas { flex-direction: column; }
+  }
 </style>
 
 Um ciberespaço para trocar uma ideia descontraída sobre filosofia
 -------------------------------------------
-<div class="duas-colunas" markdown="1">
+<div class="duas-colunas">
+
+<div class="coluna-texto" markdown="1">
 
 No princípio era o Verbo.  
 E o Verbo se fez carne.  
@@ -43,7 +40,9 @@ Enfim, inúmeras perguntas que emergem do grande problema filosófico de estar v
 Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinuado entre pessoas que habitam o ciberespaço e se ocupam com as grandes questões da existência. É um espaço caótico, de atravessamentos, em que temas emergem e imergem com velocidades infinitas. O que resulta? o impossível em sua imprevisibilidade.  
 
 </div>
----
+
+<aside class="coluna-lateral" markdown="1">
+
 # BLOGS
 
 - [Dio Anfibio](DA_Dio_Anfibio.md)
@@ -56,3 +55,7 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 # LISTA DE LEITURA DO FILOSOFIA-NET
 
 - [Lista De Leitura Oficial](Lista_De_Leitura_Oficial)
+
+</aside>
+
+</div>
