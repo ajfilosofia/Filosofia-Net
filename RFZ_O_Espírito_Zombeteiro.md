@@ -184,7 +184,7 @@
 
 ![RFZ_autoretrato.jpg](/img/RFZ_autoretrato.jpg)
 
-> _Para todos verem: um busto masculino sem qualquer pelo, de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
+> _Legenda para todos verem: um busto masculino sem qualquer pelo de olhos fechados contra um fundo com o mesmo tom de pele. O busto é meu._
 
 # Rfz - O Espírito Zombeteiro
 
