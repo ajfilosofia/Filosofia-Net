@@ -151,10 +151,11 @@
 
 [Sant' Um Único](Sant'_Um_Único)
 
+
 > "No fim, a longa linha de sua disputa chega a este ponto: que um [o filósofo] dá o preceito, e o outro [o historiador] o exemplo. (...)" — Sir Phillip Sidney [Em Defesa da Poesia]
 
 **Escritas Preliminares**
-Digo a cada pessoa que desgasta do seu tempo que lhe é próprio como Chico Buarque que "Meu caro amigo, eu não pretendo provocar". Pois o que pretendo é mais que isso, eu pretendo queimar as certezas e ascender a luz da verdade. 
+Digo a cada pessoa que desgasta do seu tempo que lhe é próprio, como Chico Buarque que "Meu caro amigo, eu não pretendo provocar". Pois o que pretendo é mais que isso, eu pretendo queimar as certezas e ascender a luz da verdade. 
 Bom, imagino que saibamos que na filosofia, antes de tentarmos responder uma pergunta, precisamos primeiro discernir os compromissos internalizados nela que nesse caso é: todo conhecimento válido deve servir para um interesse humano.
 Contudo, essa sentença tem compromissos internalizados também, pois o que é um conhecimento válido e qual interesse humano estamos falando?
 Bom, não irei estender sobre a validade do um conhecimento, pois o que importa é: que interesse humano está validando o conhecimento? Já que essa é a questão central da sentença internalizada na pergunta do título.
@@ -169,7 +170,7 @@ Quando perguntamos para que serve a filosofia, devemos pensar em maneiras de res
 
 O historiador provavelmente iria perguntar "Para que a filosofia serviu?" e logo teria a resposta em seus livros: A Filosofia iniciou o pensamento lógico e racional sobre a natureza e o agir, começando a dividir os conhecimentos da matemática, da física e da lógica. Depois desdobrou historicamente em suas próprias rupturas, na ciência moderna, no renascimento, no iluminismo... Na revolução francesa, nas constituições... ou seja, ela serviu para iniciar e proporcionar as descobertas mais recentes das ciências, dando o método e até para transformarmos a nossa política ao longo da história.
 
-Diferentemente um poeta perguntaria se " a filosofia poderia servir para algo?" e com seus versos e estrofes o poeta talvez responderia tal qual _Buarque_: "O mundo me condena
+Diferentemente um poeta perguntaria se " a filosofia poderia servir para algo?" e com seus versos e estrofes o poeta talvez responderia tal qual _Noel Rosa_: "O mundo me condena
 E ninguém tem pena
 Falando sempre mal do meu nome
 Deixando de saber
@@ -194,7 +195,7 @@ Há de viver eternamente
 Sendo escrava dessa gente
 Que cultiva hipocrisia" [música: Filosofia]. Talvez responderia de outra maneira, mas enfim, poetas. Amáveis e confusos.
 
-O filósofo perguntaria "A Filosofia deve servir para algo?" e a resposta espanta, talvez, como responderia Heiddegger: ""É perfeitamente exato e da mais completa justeza dizer: 'Com a filosofia não se pode fazer nada.' O único erro é julgar que, com tal afirmação, se encerrou o julgamento sobre a filosofia. Pois resta ainda um pequeno aditamento sob a forma da contra-pergunta: se nós não podemos fazer nada com a filosofia, não poderá ela, porventura, fazer algo conosco, contanto que nos entreguemos a ela?"" — _Língua de Tradição e Língua Técnica_ (pp. 8–13). e "A filosofia é, por sua própria essência, intempestiva, porque pertence àquelas poucas coisas cujo destino é nunca poderem encontrar ressonância imediata no seu próprio presente, e nem sequer terem o direito de a encontrar. Quando parece acontecer tal coisa, quando uma filosofia vira moda, ou não há aí nenhuma filosofia real, ou ela é mal interpretada e abusivamente aproveitada para quaisquer fins estranhos a ela, segundo as necessidades do dia."
+O filósofo perguntaria "A Filosofia deve servir para algo?" e a resposta espanta, talvez, como responderia Heiddegger: "É perfeitamente exato e da mais completa justeza dizer: 'Com a filosofia não se pode fazer nada.' O único erro é julgar que, com tal afirmação, se encerrou o julgamento sobre a filosofia. Pois resta ainda um pequeno aditamento sob a forma da contra-pergunta: se nós não podemos fazer nada com a filosofia, não poderá ela, porventura, fazer algo conosco, contanto que nos entreguemos a ela?" — _Língua de Tradição e Língua Técnica_ (pp. 8–13). e "A filosofia é, por sua própria essência, intempestiva, porque pertence àquelas poucas coisas cujo destino é nunca poderem encontrar ressonância imediata no seu próprio presente, e nem sequer terem o direito de a encontrar. Quando parece acontecer tal coisa, quando uma filosofia vira moda, ou não há aí nenhuma filosofia real, ou ela é mal interpretada e abusivamente aproveitada para quaisquer fins estranhos a ela, segundo as necessidades do dia."
 — _Introdução à Metafísica_ (Capítulo I: A questão fundamental da metafísica).
 
 A filosofia, portanto, não pode ser avaliada a partir dos critérios que avaliamos as outras ciências, as técnicas... pois são os próprios filósofos na sua produção imediatamente inútil quem produzem o contexto em que esses sistemas fazem sentido.
