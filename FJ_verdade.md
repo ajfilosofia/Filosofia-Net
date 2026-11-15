@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
 
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
+
 Mais um texto tirado do fundo do baú. Tem sido uma experiência interessante revisitar essas produções do período da graduação. Quanta pretensão naquele momento. Sonhos e esperanças...
 
 Não, não me tornei um desiludido. Mas percebi ao longo desses anos todos de filosofia como chegamos cheios de convicções para esse estudo. Como acreditamos que dominamos todos os problemas e sabemos mais do que todo o resto. Temos iluminações brilhantes, e soluções que ninguém havia pensado.
@@ -11,8 +13,6 @@ O erro está em matar o tio Sócrates. É achar que sabe de alguma coisa. Enquan
 Nesse texto eu ainda não havia plenamente percebido isso. A suspeita me rondava, mas eu ainda era cheio de convicções. É um texto que produzi para uma disciplina de Teoria do Conhecimento, que abordava os três pilares da definição clássica de conhecimento: crença, verdade e justificação. O texto trata sobre uma crítica a definição de verdade como correspondência. O texto data de aproximadamente 2018.
 
 Espero que a leitura lhe inspire.
-
----
 
 # Mundo e correspondência
 
