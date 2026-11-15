@@ -26,7 +26,6 @@ E desde já afirmo que aqui a contradição é aceitável, pois não me comprome
 
 F.J.
 
------------------------------
 # Textos:
 1. [A dose certa do remédio: Epicuro e a resiliência](FJ_resiliencia)
 2. [Mundo e correspondência](FJ_verdade).
