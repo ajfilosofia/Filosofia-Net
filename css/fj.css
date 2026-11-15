@@ -15,10 +15,12 @@ h1, h2, h3, .site-title {
   text-shadow: 0 0 6px rgba(0, 255, 0, 0.5);
 }
 hr {
-  border: none;
-  border-top: 2px dashed #00ff00;
+  border: 0 !important;
+  border-top: 2px dashed #00ff00 !important;
   width: 120px;
+  height: 0;
   margin: 2rem auto;
+  background: none;
 }
 a:hover {
   background: #00ff00;
@@ -35,7 +37,7 @@ img {
   margin: 0 auto;
 }
 .wrapper {
-  max-width: 780px !important;
+  max-width: 650px !important;
 }
 
 p, li {
