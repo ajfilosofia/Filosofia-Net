@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
 
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
+
 ## Wittgenstein: sobre a possibilidade de uma linguagem privada
 
 ### F.J.
