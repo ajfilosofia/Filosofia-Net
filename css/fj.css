@@ -17,7 +17,7 @@ h1, h2, h3, .site-title {
 hr {
   border: 0 !important;
   border-top: 2px dashed #00ff00 !important;
-  width: 220px;
+  width: 120px;
   height: 0;
   margin: 2rem auto;
   background: none;
@@ -38,7 +38,7 @@ img {
 }
 .wrapper,
 .container-lg {
-  max-width: 750px !important;
+  max-width: 650px !important;
 }
 
 p, li {
@@ -48,17 +48,26 @@ p, li {
 .user { color: #00ff00; font-weight: bold; }
 .path { color: #5599ff; font-weight: bold; }
 
-/* Linhas embaixo dos títulos (tema Primer) */
-.markdown-body h1,
-.markdown-body h2 {
-  border-bottom: none !important;
-  padding-bottom: 0;
-}
-/* Remove as linhas embaixo dos títulos */
+/* Remove as linhas embaixo dos títulos e das áreas do tema */
 .markdown-body h1,
 .markdown-body h2,
 h1,
 h2 {
   border-bottom: none !important;
   padding-bottom: 0;
+}
+.site-header,
+.site-footer {
+  border: none !important;
+}
+
+/* Título do site centralizado */
+h1,
+.site-title,
+.site-header,
+.site-header .wrapper {
+  text-align: center !important;
+}
+.site-title {
+  float: none !important;
 }
