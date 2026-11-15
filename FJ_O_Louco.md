@@ -1,10 +1,15 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 
+<style>
+  body, p, li, h1, h2, h3, h4, a, strong, em,
+  .site-title, .site-header, .site-footer, code, pre {
+    font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace !important;
+  }
   body {
     background: #000;
     color: #33ff33;
-    font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
   }
   h1, h2, h3, h4, a, strong,
   .site-title, .site-title:visited {
