@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
 
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
+
 Este texto foi produzido em 2020, no contexto da pandemia de covid-19. Muito se falava em resiliência naquele momento. Contudo, não o concluí. Deixei-o guardado como um sinal do que era capaz de produzir naquele momento (recém formado em Filosofia). Hoje, o publico tal como foi redigido originalmente em homenagem àquele momento de minha vida. Que o texto lhe provoque e inspire a refletir.
 
 # A dose certa do remédio: Epicuro e a resiliência
