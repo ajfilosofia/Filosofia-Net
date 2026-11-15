@@ -180,6 +180,147 @@
     color: var(--tinta);
   }
     .markdown-body p { margin: 0; }
+  /* ---------- 1. Abertura: retrato menor, cantos arredondados, legenda discreta ---------- */
+  .markdown-body > p:first-of-type:has(> img) {
+    text-align: center;
+    margin: 1em 0 0.6em;
+  }
+  .markdown-body > p:first-of-type:has(> img) img {
+    width: 240px;
+    max-width: 70%;
+    height: auto;
+    border-radius: 10px;
+    padding: 0;
+    background: none;
+  }
+
+  /* Legendas das imagens (o "Para todos verem") */
+  .markdown-body > p:has(> img) + blockquote {
+    max-width: 28em;
+    margin: 0 auto 2.5em;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    font-size: 0.78em;
+    line-height: 1.45;
+    color: var(--tinta-suave);
+  }
+  .markdown-body > p:has(> img) + blockquote p { text-align: center; text-indent: 0; hyphens: manual; }
+
+  /* Título logo depois do retrato */
+  .markdown-body > h1:not(:first-child) { margin-top: 0.2em; }
+
+  /* ---------- 2. Epígrafes: todas as outras citações ---------- */
+  .markdown-body > blockquote:not(p:has(> img) + blockquote) {
+    max-width: 30em;
+    margin: 0 auto 2.5em;
+    padding: 0;
+    border: 0;
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: var(--tinta-suave);
+  }
+  .markdown-body > blockquote:not(p:has(> img) + blockquote)::before {
+    content: "";
+    display: block;
+    width: 2.5em;
+    margin: 0 auto 0.8em;
+    border-top: 2px solid var(--vermelho);
+  }
+  .markdown-body > blockquote p { text-indent: 0; text-align: left; hyphens: manual; }
+  /* epígrafe que vem depois de um parágrafo precisa de ar acima */
+  .markdown-body > p + blockquote:not(p:has(> img) + blockquote) { margin-top: 1.8em; clear: both; }
+
+  /* ---------- 3. Índice: uma linha de navegação, como num sumário de livro ---------- */
+  .markdown-body > h2:has(+ ol > li > a[href^="#"]) {
+    font-size: 0.75em;
+    letter-spacing: 0.25em;
+    color: var(--tinta-suave);
+    margin: 2.5em 0 0.6em;
+  }
+  .markdown-body > ol:has(> li > a[href^="#"]) {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.2em 0;
+    padding: 0.6em 0;
+    margin: 0 0 1em;
+    border-top: 1px solid var(--papel-escuro);
+    border-bottom: 1px solid var(--papel-escuro);
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+  }
+  .markdown-body > ol:has(> li > a[href^="#"]) li { margin: 0; }
+  .markdown-body > ol:has(> li > a[href^="#"]) li + li::before {
+    content: "·";
+    color: var(--vermelho);
+    margin: 0 0.8em;
+  }
+  .markdown-body > ol:has(> li > a[href^="#"]) a { border-bottom: 0; }
+
+  /* ---------- 4. Textos: catálogo numerado, com título e resumo ---------- */
+  .markdown-body > ol:has(> li > ol) {
+    list-style: none;
+    counter-reset: texto;
+    padding: 0;
+    margin: 1em 0 3em;
+    border-top: 1px solid var(--papel-escuro);
+  }
+  .markdown-body > ol:has(> li > ol) > li {
+    counter-increment: texto;
+    position: relative;
+    padding: 0.9em 0 0.9em 2.8em;
+    margin: 0;
+    border-bottom: 1px solid var(--papel-escuro);
+    line-height: 1.35;
+  }
+  .markdown-body > ol:has(> li > ol) > li::before {
+    content: counter(texto, upper-roman) ".";
+    position: absolute;
+    left: 0;
+    top: 0.9em;
+    width: 2.2em;
+    text-align: right;
+    color: var(--vermelho);
+    font-variant: small-caps;
+  }
+  .markdown-body > ol:has(> li > ol) > li > a { font-size: 1.08em; }
+  .markdown-body > ol:has(> li > ol) > li > ol {
+    list-style: none;
+    padding: 0;
+    margin: 0.25em 0 0;
+    font-style: italic;
+    font-size: 0.88em;
+    color: var(--tinta-suave);
+  }
+  .markdown-body > ol:has(> li > ol) > li > ol li { margin: 0; }
+
+  /* ---------- 5. Imagens no meio do texto: menores, centralizadas ---------- */
+  .markdown-body > p:has(> img):not(:first-of-type) {
+    text-align: center;
+    margin: 1.5em 0 0.6em;
+  }
+  .markdown-body > p:has(> img):not(:first-of-type) img {
+    max-width: min(100%, 340px);
+    padding: 0;
+    background: none;
+    border-radius: 10px;
+  }
+
+  /* ---------- 6. Contato: o último parágrafo vira uma linha destacada ---------- */
+  .markdown-body > p:last-of-type {
+    clear: both;
+    text-align: center;
+    text-indent: 0;
+    margin: 1.8em auto 0;
+    padding: 0.6em 0;
+    border-top: 1px solid var(--papel-escuro);
+    border-bottom: 1px solid var(--papel-escuro);
+  }
+
+  /* ---------- 7. Ritmo entre seções ---------- */
+  .markdown-body > h2 { margin-top: 3.2em; }
 </style>
 
 ![RFZ_autoretrato.jpg](/img/RFZ_autoretrato.jpg)
