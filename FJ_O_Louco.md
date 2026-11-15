@@ -1,34 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-
-<style>
-  body, p, li, h1, h2, h3, h4, a, strong, em,
-  .site-title, .site-header, .site-footer, code, pre {
-    font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace !important;
-  }
-  body {
-    background: #000;
-    color: #33ff33;
-  }
-  h1, h2, h3, h4, a, strong,
-  .site-title, .site-title:visited {
-    color: #00ff00;
-  }
-  h1, h2, h3, .site-title {
-    text-shadow: 0 0 6px rgba(0, 255, 0, 0.5);
-  }
-  a:hover {
-    background: #00ff00;
-    color: #000;
-    text-shadow: none;
-  }
-  code, pre {
-    background: #0a0a0a;
-    color: #00ff00;
-    border: 1px solid #00ff00;
-  }
-</style>
+<link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
 
 # FJ - O Louco
 
