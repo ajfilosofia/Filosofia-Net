@@ -294,6 +294,10 @@
 39. O Desaparecimento Dos Rituais (Han){rafzmilhomens}
 	1. Votos
 		1. rafzmilhomens
+40. A Escrita De Si (Foucault){dio anfibio}
+	1. Votos
+		1. dio anfibio
+		2. rafzmilhomens
 
 </div>
 
