@@ -1,14 +1,15 @@
 <style>
 
-  .site-title::before {
-    content: "";
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    margin-right: 10px;
-    vertical-align: middle;
-    background: url("/Filosofia-Net/img/logo-phi.jpg") no-repeat center / contain;
-  }
+ .site-title::before,
+h1::before {
+  content: "";
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+  background: url("/Filosofia-Net/img/logo-phi.jpg") no-repeat center / contain;
+}
   
   h1 { text-align: center !important; }
   .subtitulo { text-align: center; }
