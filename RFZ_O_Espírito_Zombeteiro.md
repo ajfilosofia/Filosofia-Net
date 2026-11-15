@@ -235,6 +235,7 @@ Também escrevo poesia. Mas em outro blog. Se você tiver interesse o título é
 > só falta mais um pouco
 > pra eu ser tratado também"
 > Paulo Leminski
+
 ## Correio Elegante
 
 >Recebo o crack, colante, dinheiro parco, embrulhado em papel carbono e barbante, até cabelo cortado, retrato de 3x4, pra batizado distante, recebo até, meu senhor, uma carta de amor
