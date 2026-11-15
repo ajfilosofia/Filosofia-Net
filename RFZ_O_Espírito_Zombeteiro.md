@@ -213,13 +213,17 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 
 1. [Kit De Socorros](Kit_De_Socorros)
 	1. Guia para publicar no Filosofia-Net
-2. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](RFZ_A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
+2. **A Máquina Do Sentido - Teoria Não Universal Pós-Secular Da Percepção**
+	1. Um rascunho de um livro que pretendo publicar aqui. Se funcionar: ótimo. Se não: fingimos que foi um delírio.
+		1. [Elementos Pré-Textuais](RFZ_Pré-Textuais)
+		2. [Cap. 3 - O Colar Budista](RFZ_O_Colar_Budista)
+3. [A Tecnologização Do Sagrado E A Crise Do Indivíduo Contemporâneo](RFZ_A_Tecnologização_do_Sagrado_e_a_Crise_do_Indivíduo_Contemporâneo)
 	1. Algaravias bruxuleantes sobre a ideia de colocar um copo d'água na frente da TV para ser abençoado
-3. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](RFZ_O_Gênero_Documental)
+4. [O Gênero Documental Como Discurso Científico - Educação E Linguagem Audiovisual](RFZ_O_Gênero_Documental)
 	1. Literacia midiática e sua urgência
-4. [Para Que Serve A Filosofia? Sobre Os Privilégios Nas Torres De Marfim](RFZ_Para_Que_Serve_A_Filosofia)
+5. [Para Que Serve A Filosofia? Sobre Os Privilégios Nas Torres De Marfim](RFZ_Para_Que_Serve_A_Filosofia)
 	1. Uma viagem sobre nomes imagens, nomes imagens nomes.
-5. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão)
+6. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão)
 	1. Acerca do que vemos e ignoramos
 
 ## [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
