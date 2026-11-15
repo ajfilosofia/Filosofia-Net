@@ -384,6 +384,7 @@ Na seção em que falei sobre a emergência do conceito central para esta obra, 
 #### Efeitos Observáveis
 
 Os efeitos da purificação simbólica são muitos. O mais observável, em nível individual, é a percepção de que não é possível orientar-se sem que o mecanismo ocorra. Mas, ao ocorrer, o mecanismo apaga vestígios de uma possível fratura em um sistema estanque. Ou seja, que já não produz novos sentidos. Essa é a causa do principal efeito observável: a aparente perda de sentido.
+{: .capitular}
 
 O indivíduo pós-secular brasileiro não encontra mais contato com aquilo que proporciona um sentido, comunitário, geral e individual: O sagrado, nos termos de Eliade, *Ganz andere*. Hoje, esse indivíduo está fragmentado em diversos sistemas que habita e que nele habitam. Ao hierarquizar tais sistemas e buscar organizá-los de modo a privilegiar aquele que reforça a sua identidade, o indivíduo encontra-se auto-referenciado.
 
