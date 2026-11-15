@@ -20,7 +20,7 @@ h1::before {
     align-items: flex-start;
   }
   .coluna-texto { flex: 2; min-width: 0; }
-  .coluna-lateral { flex: 1; min-width: 0; }
+  .coluna-lateral h2 { text-align: center; }
 
   @media (max-width: 700px) {
     .duas-colunas { flex-direction: column; }
