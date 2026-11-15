@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
 
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
+
 Este resumo do livro A Origem da Obra de Arte, de Martin Heidegger, foi elaborado na disciplina de Filosofia Contemporânea próximo do final de minha graduação em Filosofia. Já mais maduro na leitura heideggeriana, busquei articular seus conceitos de uma forma didática. Um desafio, dada a inicial obscuridade do jargão desse filósofo. 
 
 Sempre nutri um afeto especial por essa filosofia. Há algo mágico por trás da questão do ser. Ler uma obra de ontologia é um exercício árido, pelo tamanho grau de abstração. Mas é algo que tensiona nossa compreensão das coisas. Neste caso, da obra de arte.
