@@ -14,6 +14,12 @@ h1, h2, h3, h4, a, strong, .site-title, .site-title:visited {
 h1, h2, h3, .site-title {
   text-shadow: 0 0 6px rgba(0, 255, 0, 0.5);
 }
+hr {
+  border: none;
+  border-top: 2px dashed #00ff00;
+  width: 120px;
+  margin: 2rem auto;
+}
 a:hover {
   background: #00ff00;
   color: #000;
@@ -28,5 +34,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+.wrapper {
+  max-width: 780px !important;
+}
+
+p, li {
+  text-align: justify;
+}
+
 .user { color: #00ff00; font-weight: bold; }
 .path { color: #5599ff; font-weight: bold; }
