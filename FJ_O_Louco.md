@@ -32,3 +32,4 @@ F.J.
 2. [Mundo e correspondência](FJ_verdade).
 3. [Sobre a origem da obra de arte](FJ_origem_obra_arte).
 4. [Wittgenstein: sobre a possibilidade de uma linguagem privada](FJ_linguagem-privada)
+5. [Para que serve a filosofia? Para incomodar](FJ_para-que-filosofia)
