@@ -36,7 +36,8 @@ img {
   display: block;
   margin: 0 auto;
 }
-.wrapper {
+.wrapper,
+.container-lg {
   max-width: 650px !important;
 }
 
@@ -47,17 +48,17 @@ p, li {
 .user { color: #00ff00; font-weight: bold; }
 .path { color: #5599ff; font-weight: bold; }
 
-/* Linhas do cabeçalho e do rodapé do tema */
-.site-header,
-.site-footer {
-  border: none !important;
+/* Linhas embaixo dos títulos (tema Primer) */
+.markdown-body h1,
+.markdown-body h2 {
+  border-bottom: none !important;
+  padding-bottom: 0;
 }
-.site-header::after,
-.site-footer::before {
+.markdown-body h1::after,
+.markdown-body h2::after {
   content: "";
   display: block;
-  clear: both;
   width: 120px;
-  margin: 0 auto;
+  margin: 0.4em auto 0;
   border-top: 2px dashed #00ff00;
 }
