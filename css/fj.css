@@ -46,3 +46,18 @@ p, li {
 
 .user { color: #00ff00; font-weight: bold; }
 .path { color: #5599ff; font-weight: bold; }
+
+/* Linhas do cabeçalho e do rodapé do tema */
+.site-header,
+.site-footer {
+  border: none !important;
+}
+.site-header::after,
+.site-footer::before {
+  content: "";
+  display: block;
+  clear: both;
+  width: 120px;
+  margin: 0 auto;
+  border-top: 2px dashed #00ff00;
+}
