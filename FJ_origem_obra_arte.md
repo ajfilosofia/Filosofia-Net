@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
+<link rel="icon" type="image/png" href="/Filosofia-Net/img/fj-favicon.jpg">
 
 [← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
 
