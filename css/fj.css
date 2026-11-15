@@ -17,7 +17,7 @@ h1, h2, h3, .site-title {
 hr {
   border: 0 !important;
   border-top: 2px dashed #00ff00 !important;
-  width: 120px;
+  width: 220px;
   height: 0;
   margin: 2rem auto;
   background: none;
@@ -38,7 +38,7 @@ img {
 }
 .wrapper,
 .container-lg {
-  max-width: 650px !important;
+  max-width: 750px !important;
 }
 
 p, li {
@@ -58,7 +58,7 @@ p, li {
 .markdown-body h2::after {
   content: "";
   display: block;
-  width: 120px;
+  width: 220px;
   margin: 0.4em auto 0;
   border-top: 2px dashed #00ff00;
 }
