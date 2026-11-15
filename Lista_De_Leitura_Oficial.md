@@ -153,9 +153,6 @@
     body:has(.lista-leitura) { padding: 2.5em 1em 0; }
     .lista-leitura > ol > li { padding: 1em 2.5em 1em 2.3em; }
   }
-/* ---------- Ranking automático: mais votados no topo ----------
-     Cada obra sobe conforme o número de nomes em "Votos". Empates
-     mantêm a ordem do Markdown. Funciona até 12 votos por obra. */
   .lista-leitura > ol { display: flex; flex-direction: column; }
   .lista-leitura > ol > li:has(> ol > li > ol > li:nth-child(2)) { order: -2; }
   .lista-leitura > ol > li:has(> ol > li > ol > li:nth-child(3)) { order: -3; }
@@ -168,8 +165,6 @@
   .lista-leitura > ol > li:has(> ol > li > ol > li:nth-child(10)) { order: -10; }
   .lista-leitura > ol > li:has(> ol > li > ol > li:nth-child(11)) { order: -11; }
   .lista-leitura > ol > li:has(> ol > li > ol > li:nth-child(12)) { order: -12; }
-
-  /* A numeração 01, 02… seguiria a ordem do Markdown, não a do ranking: sai */
   .lista-leitura > ol > li::before { content: none; }
   .lista-leitura > ol > li { padding-left: 0; }
   @media (max-width: 600px) { .lista-leitura > ol > li { padding-left: 0; } }
