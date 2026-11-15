@@ -7,7 +7,7 @@
     height: 40px;
     margin-right: 10px;
     vertical-align: middle;
-    background: url("/img/logo-phi.jpg") no-repeat center / contain;
+    background: url("/Filosofia-Net/img/logo-phi.jpg") no-repeat center / contain;
   }
   
   h1 { text-align: center !important; }
@@ -69,6 +69,7 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 - [Sant' Um Único](Sant'_Um_Único)
 
 ---
+
 ## LISTA DE LEITURA DO FILOSOFIA-NET
 
 - [Lista De Leitura Oficial](Lista_De_Leitura_Oficial)
