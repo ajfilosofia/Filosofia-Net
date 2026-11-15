@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+body {
+  background: #000;
+  color: #33ff33;
+}
+body, p, li, h1, h2, h3, h4, a, strong, em,
+.site-title, .site-header, .site-footer, code, pre {
+  font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace !important;
+}
+h1, h2, h3, h4, a, strong, .site-title, .site-title:visited {
+  color: #00ff00;
+}
+h1, h2, h3, .site-title {
+  text-shadow: 0 0 6px rgba(0, 255, 0, 0.5);
+}
+hr {
+  border: 0 !important;
+  border-top: 2px dashed #00ff00 !important;
+  width: 120px;
+  height: 0;
+  margin: 2rem auto;
+  background: none;
+}
+a:hover {
+  background: #00ff00;
+  color: #000;
+  text-shadow: none;
+}
+code, pre {
+  background: #0a0a0a;
+  color: #00ff00;
+  border: 1px solid #00ff00;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.wrapper,
+.container-lg {
+  max-width: 650px !important;
+}
+
+p, li {
+  text-align: justify;
+}
+
+.user { color: #00ff00; font-weight: bold; }
+.path { color: #5599ff; font-weight: bold; }
+
+/* Remove as linhas embaixo dos títulos e das áreas do tema */
+.markdown-body h1,
+.markdown-body h2,
+h1,
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0;
+}
+.site-header,
+.site-footer {
+  border: none !important;
+}
+
+/* Título do site centralizado */
+h1,
+.site-title,
+.site-header,
+.site-header .wrapper {
+  text-align: center !important;
+}
+.site-title {
+  float: none !important;
+}

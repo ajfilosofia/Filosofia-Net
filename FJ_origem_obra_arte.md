@@ -1,22 +1,7 @@
-<style>
-  body {
-    background: #000;
-    color: #00ff00;
-    font-family: "Courier New", Consolas, monospace;
-  }
-  h1, h2, h3, h4, a, strong {
-    color: #00ff00;
-  }
-  a:hover {
-    background: #00ff00;
-    color: #000;
-  }
-  code, pre {
-    background: #0a0a0a;
-    color: #00ff00;
-    border: 1px solid #00ff00;
-  }
-</style>
+<link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
+<link rel="icon" type="image/png" href="/Filosofia-Net/img/fj-favicon.jpg">
+
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
 
 Este resumo do livro A Origem da Obra de Arte, de Martin Heidegger, foi elaborado na disciplina de Filosofia Contemporânea próximo do final de minha graduação em Filosofia. Já mais maduro na leitura heideggeriana, busquei articular seus conceitos de uma forma didática. Um desafio, dada a inicial obscuridade do jargão desse filósofo. 
 

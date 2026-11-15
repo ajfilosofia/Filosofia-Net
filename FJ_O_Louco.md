@@ -1,22 +1,6 @@
-<style>
-  body {
-    background: #000;
-    color: #00ff00;
-    font-family: "Courier New", Consolas, monospace;
-  }
-  h1, h2, h3, h4, a, strong {
-    color: #00ff00;
-  }
-  a:hover {
-    background: #00ff00;
-    color: #000;
-  }
-  code, pre {
-    background: #0a0a0a;
-    color: #00ff00;
-    border: 1px solid #00ff00;
-  }
-</style>
+<link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
+<link rel="icon" type="image/png" href="/Filosofia-Net/img/fj-favicon.jpg">
+
 # FJ - O Louco
 
 ![Justin Guevara](/img/Justin-Guevara.jpg)
@@ -43,9 +27,9 @@ E desde já afirmo que aqui a contradição é aceitável, pois não me comprome
 
 F.J.
 
------------------------------
 # Textos:
 1. [A dose certa do remédio: Epicuro e a resiliência](FJ_resiliencia)
 2. [Mundo e correspondência](FJ_verdade).
 3. [Sobre a origem da obra de arte](FJ_origem_obra_arte).
 4. [Wittgenstein: sobre a possibilidade de uma linguagem privada](FJ_linguagem-privada)
+5. [Para que serve a filosofia? Para incomodar!](FJ_para-que-filosofia)

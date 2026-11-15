@@ -1,22 +1,7 @@
-<style>
-  body {
-    background: #000;
-    color: #00ff00;
-    font-family: "Courier New", Consolas, monospace;
-  }
-  h1, h2, h3, h4, a, strong {
-    color: #00ff00;
-  }
-  a:hover {
-    background: #00ff00;
-    color: #000;
-  }
-  code, pre {
-    background: #0a0a0a;
-    color: #00ff00;
-    border: 1px solid #00ff00;
-  }
-</style>
+<link rel="stylesheet" href="/Filosofia-Net/css/fj.css">
+<link rel="icon" type="image/png" href="/Filosofia-Net/img/fj-favicon.jpg">
+
+[← Voltar para FJ - O Louco](/Filosofia-Net/FJ_O_Louco)
 
 Mais um texto tirado do fundo do baú. Tem sido uma experiência interessante revisitar essas produções do período da graduação. Quanta pretensão naquele momento. Sonhos e esperanças...
 
@@ -29,8 +14,6 @@ O erro está em matar o tio Sócrates. É achar que sabe de alguma coisa. Enquan
 Nesse texto eu ainda não havia plenamente percebido isso. A suspeita me rondava, mas eu ainda era cheio de convicções. É um texto que produzi para uma disciplina de Teoria do Conhecimento, que abordava os três pilares da definição clássica de conhecimento: crença, verdade e justificação. O texto trata sobre uma crítica a definição de verdade como correspondência. O texto data de aproximadamente 2018.
 
 Espero que a leitura lhe inspire.
-
----
 
 # Mundo e correspondência
 
