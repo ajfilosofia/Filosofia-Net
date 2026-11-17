@@ -25,7 +25,7 @@ h1 { text-align: center !important; font-size: 2.3rem; letter-spacing: -0.02em; 
 h2 { font-size: 1.15rem; letter-spacing: 0.02em; padding-bottom: 0.35em; margin-top: 1.5em; border-bottom: 4px solid var(--concreto); }
 .subtitulo { text-align: center; color: var(--concreto); font-size: 1.05rem; letter-spacing: 0.05em; margin-bottom: 2.5rem; }
 /* logo */
-.site-title::before, h1::before { content: ""; display: inline-block; width: 40px; height: 40px; margin-right: 10px; vertical-align: middle; background: url("/Filosofia-Net/img/logo-phi.jpg") no-repeat center / contain; }
+.site-title::before, h1::before { content: ""; display: inline-block; width: 40px; height: 40px; margin-right: 10px; vertical-align: middle; background: url("/Filosofia-Net/img/phi.png") no-repeat center / contain; }
 /* cabeçalho e rodapé */
 .site-header { background: var(--preto); border: 0; }
 .site-header::after { content: ""; display: block; height: 16px; background: repeating-linear-gradient(90deg, var(--concreto-escuro) 0 8px, #3d3f3a 8px 16px); }
