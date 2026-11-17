@@ -1,82 +1,30 @@
 <style>
-/* Paleta */
-:root {
-  --preto: #000000;
-  --verde-fundo: #0d3b21;
-  --verde-painel: #0a2e1a;
-  --verde-linha: #1f5a37;
-  --amarelo: #f5c400;
-  --amarelo-claro: #ffe066;
-  --texto: #efe9c8;
+
+ .site-title::before,
+h1::before {
+  content: "";
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+  background: url("/Filosofia-Net/img/logo-phi.jpg") no-repeat center / contain;
 }
-/* Base */
-html { background: var(--preto); }
-body {
-  background: var(--verde-fundo);
-  color: var(--texto);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 19px;
-  line-height: 1.75;
-}
-/* Cabeçalho */
-.site-header {
-  background: var(--preto);
-  border-top: 0;
-  border-bottom: 4px solid var(--amarelo);
-}
-.site-title, .site-title:visited {
-  color: var(--amarelo);
-  font-weight: 700;
-  letter-spacing: 0.5px;
-}
-.site-title:hover { color: var(--amarelo-claro); background: none; text-decoration: none; }
-.site-nav .page-link { color: var(--texto); }
-.site-nav .page-link:hover { color: var(--amarelo); background: none; }
-@media screen and (max-width: 600px) {
-  .site-nav { background: var(--preto); border: 1px solid var(--amarelo); }
-}
-/* Conteúdo */
-.page-content { background: var(--verde-fundo); }
-h1, h2, h3, h4, h5, h6 {
-  color: var(--amarelo);
-  font-family: Georgia, "Times New Roman", serif;
-  line-height: 1.25;
-}
-h2 {
-  border-bottom: 2px solid var(--amarelo);
-  padding-bottom: 0.3em;
-  margin-top: 2em;
-}
-a, a:visited {
-  color: var(--amarelo);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-a:hover { color: var(--preto); background: var(--amarelo); text-decoration: none; }
-a:focus-visible { outline: 3px solid var(--amarelo-claro); outline-offset: 2px; }
-ul, ol { margin-left: 1.5em; }
-li::marker { color: var(--amarelo); }
-blockquote {
-  color: var(--texto);
-  background: var(--verde-painel);
-  border-left: 5px solid var(--amarelo);
-  padding: 0.8em 1.2em;
-  font-style: italic;
-}
-hr { border: 0; border-top: 2px solid var(--amarelo); margin: 2.5em 0; }
-img { border: 2px solid var(--amarelo); }
-::selection { background: var(--amarelo); color: var(--preto); }
-/* Rodapé */
-.site-footer {
-  background: var(--preto);
-  color: var(--texto);
-  border-top: 4px solid var(--amarelo);
-  margin-top: 2em;
-  padding-bottom: 2em;
-}
-.site-footer a, .site-footer a:visited, .footer-heading { color: var(--amarelo); }
-.svg-icon { fill: var(--amarelo); }
+  
+  h1 { text-align: center !important; }
+  .subtitulo { text-align: center; }
+
+  .duas-colunas {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+  }
+  .coluna-texto { flex: 2; min-width: 0; }
+  .coluna-lateral h2 { text-align: center; }
+
+  @media (max-width: 700px) {
+    .duas-colunas { flex-direction: column; }
+  }
 </style>
 
 <h2 class="subtitulo">Um ciberespaço para trocar uma ideia descontraída sobre filosofia</h2>
