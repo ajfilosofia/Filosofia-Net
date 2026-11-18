@@ -25,7 +25,9 @@ h1 { text-align: center !important; font-size: 2.3rem; letter-spacing: -0.02em; 
 h2 { font-size: 1.15rem; letter-spacing: 0.02em; padding-bottom: 0.35em; margin-top: 1.5em; border-bottom: 4px solid var(--concreto); }
 .subtitulo { text-align: center; color: var(--concreto); font-size: 1.05rem; letter-spacing: 0.05em; margin-bottom: 2.5rem; }
 /* logo */
-.site-title::before, h1::before { content: ""; display: inline-block; width: 40px; height: 40px; margin-right: 10px; vertical-align: middle; background: url("/Filosofia-Net/img/phi.png") no-repeat center / contain; }
+.site-title::before, .site-title::after, h1::before, h1::after { content: "φ"; display: inline-block; vertical-align: middle; font-family: Georgia, "Times New Roman", serif; font-weight: 700; font-size: 1.15em; text-transform: none; }
+.site-title::before, h1::before { margin-right: 0.35em; }
+.site-title::after, h1::after { margin-left: 0.35em; }
 /* cabeçalho e rodapé */
 .site-header { background: var(--preto); border: 0; }
 .site-header::after { content: ""; display: block; height: 16px; background: repeating-linear-gradient(90deg, var(--concreto-escuro) 0 8px, #3d3f3a 8px 16px); }
@@ -44,7 +46,7 @@ a:focus-visible { outline: 3px solid var(--concreto-claro); outline-offset: 3px;
 .fachada, .intro, .placas, .conjunto { margin-bottom: 3.5rem; }
 .duas-colunas { display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; }
 .coluna-texto { flex: 2; min-width: 0; background: var(--verde-painel); border: 5px solid var(--concreto); padding: 1.75rem; }
-.coluna-lateral { flex: 1; color: var(--preto); border: 5px solid var(--preto); padding: 1.25rem 1.5rem; background: var(--granulado), repeating-linear-gradient(to bottom, transparent 0 158px, rgba(0,0,0,.4) 158px 162px), var(--concreto); }
+.coluna-lateral { flex: 1; color: var(--preto); border: 5px solid var(--preto); padding: 1.25rem 1.5rem; background: var(--granulado) var(--concreto); }
 .coluna-lateral h2 { text-align: center; color: var(--preto); border-bottom: 5px solid var(--preto); margin-top: 0.2em; }
 .coluna-lateral ul { list-style: square; }
 @media (max-width: 700px) { .duas-colunas { flex-direction: column; } }
