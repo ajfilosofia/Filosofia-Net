@@ -202,10 +202,11 @@
 	1. Votos
 		1. fjnet
 		2. rafzmilhomens
-7. História Do Sexo (Foucault) {rafzmilhomens}
+7. A História Do Sexualidade (Foucault) {rafzmilhomens}
 	1. Votos
 		1. fjnet
 		2. rafzmilhomens
+		3. dio anfibio
 8. O Capital (Marx) {rafzmilhomens}
 	1. Votos
 		1. fjnet
@@ -218,6 +219,7 @@
 	1. Votos
 		1. fjnet
 		2. rafzmilhomens
+		3. dio anfibio
 11. A República (Platão) {rafzmilhomens}
 	1. Votos
 		1. rafzmilhomens
