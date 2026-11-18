@@ -92,6 +92,16 @@ a.laje:hover { --janela: var(--concreto-claro); }
 /* links sobre concreto */
 a.laje, a.laje:visited, .coluna-lateral a, .coluna-lateral a:visited { color: var(--preto); }
 a.laje:hover, .coluna-lateral a:hover { color: var(--concreto-claro); background-color: var(--preto); }
+/* rodapé: φ, atalhos e carimbo */
+.rodape { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 2.5rem; margin-top: 1.5rem; padding: 1.75rem 2rem; background: var(--preto); border: 5px solid var(--concreto); box-shadow: var(--sombra); }
+.phi { font: 700 clamp(6rem, 14vw, 10rem)/0.8 Georgia, "Times New Roman", serif; color: var(--concreto-escuro); }
+.atalhos { display: grid; width: 100%; max-width: 340px; justify-self: center; }
+.atalhos a, .atalhos a:visited { padding: 0.6rem 0.3rem; border-bottom: 3px solid var(--concreto-escuro); text-decoration: none; text-transform: uppercase; }
+.atalhos a:last-child { border-bottom: 0; }
+.carimbo { transform: rotate(-2deg); padding: 0.9rem 1.3rem; border: 4px solid var(--concreto); outline: 2px solid var(--concreto); outline-offset: 4px; text-align: center; text-transform: uppercase; color: var(--concreto); }
+.carimbo small { display: block; font-size: 0.78rem; letter-spacing: 0.15em; }
+.carimbo b { display: block; margin: 0.25rem 0; font-family: var(--pesado); font-weight: 900; font-size: 1.6rem; color: var(--concreto-claro); }
+@media (max-width: 700px) { .rodape { grid-template-columns: 1fr; justify-items: center; gap: 1.75rem; } }
 </style>
 
 <h2 class="subtitulo">Um ciberespaço para trocar uma ideia descontraída sobre filosofia</h2>
@@ -127,7 +137,7 @@ O pensamento!
   <p class="placa">“A máquina pode pensar?”</p>
 </div>
 
-<h2 class="titulo-bloco">Blogs</h2>
+<h2 class="titulo-bloco" id="blogs">Blogs</h2>
 
 <nav class="conjunto" aria-label="Blogs">
   <a class="laje l1" href="DA_Dio_Anfibio"><span class="sigla">DA</span><span class="nome">Dio Anfibio</span></a>
@@ -155,3 +165,14 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 </aside>
 
 </div>
+
+<footer class="rodape">
+  <div class="phi" aria-hidden="true">φ</div>
+  <nav class="atalhos" aria-label="Atalhos">
+    <a href="{{ '/' | relative_url }}">Início</a>
+    <a href="#blogs">Blogs</a>
+    <a href="Lista_De_Leitura_Oficial">Lista de leitura</a>
+    <a href="#">Voltar ao topo ↑</a>
+  </nav>
+  <div class="carimbo"><small>Última atualização</small><b>{{ site.time | date: "%d/%m/%Y" }}</b><small>Filosofia-Net</small></div>
+</footer>
