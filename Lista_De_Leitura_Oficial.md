@@ -202,7 +202,7 @@
 	1. Votos
 		1. fjnet
 		2. rafzmilhomens
-7. A História Do Sexualidade (Foucault) {rafzmilhomens}
+7. A História Da Sexualidade (Foucault) {rafzmilhomens}
 	1. Votos
 		1. fjnet
 		2. rafzmilhomens
