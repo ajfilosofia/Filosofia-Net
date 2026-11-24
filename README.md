@@ -72,26 +72,24 @@ a:focus-visible { outline: 3px solid var(--concreto-claro); outline-offset: 3px;
   .placa:nth-child(3) { --w: 100%; }
   .placa:nth-child(4) { --w: 68%; }
 }
-/* conjunto: cada blog é um bloco, alinhados pela base */
+/* blogs: blocos do mesmo tamanho (4 por linha) */
 .titulo-bloco { margin: 0 0 1.75rem; }
-.conjunto { display: grid; grid-template-columns: repeat(12, 1fr); gap: 1.5rem; align-items: end; }
-.l1 { --c: 4; --h: 300px; --s: clamp(2.6rem, 7vw, 4.8rem); }
-.l2 { --c: 2; --h: 200px; --s: clamp(2rem, 4.2vw, 3.2rem); }
-.l3 { --c: 3; --h: 360px; --s: clamp(2.6rem, 7vw, 4.8rem); }
-.l4 { --c: 3; --h: 240px; --s: clamp(1.8rem, 4.2vw, 3rem); }
-a.laje, a.laje:visited { --janela: rgba(0,0,0,.55); position: relative; display: flex; flex-direction: column; justify-content: flex-end; grid-column: span var(--c); min-height: var(--h); padding: 1rem 1.1rem 1.1rem; background: var(--granulado) var(--concreto); border: 5px solid var(--preto); text-decoration: none; overflow: hidden; }
-a.laje::before { content: ""; position: absolute; top: 1.1rem; left: 1.1rem; right: 1.1rem; height: calc(100% - 9rem); background-image: repeating-linear-gradient(90deg, transparent 0 8px, var(--janela) 8px 20px, transparent 20px 22px); -webkit-mask-image: repeating-linear-gradient(to bottom, #000 0 16px, transparent 16px 30px); mask-image: repeating-linear-gradient(to bottom, #000 0 16px, transparent 16px 30px); }
-a.laje:hover { --janela: var(--concreto-claro); }
-.sigla { position: relative; font-size: var(--s); line-height: 0.95; letter-spacing: -0.04em; }
+.conjunto { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.5rem; }
+.laje { position: relative; display: flex; flex-direction: column; justify-content: flex-end; min-height: 220px; padding: 1rem 1.1rem 1.1rem; background: var(--granulado) var(--concreto); border: 5px solid var(--preto); overflow: hidden; }
+a.laje, a.laje:visited { text-decoration: none; }
+.sigla { position: relative; font-size: clamp(2rem, 3.4vw, 2.7rem); line-height: 0.95; letter-spacing: -0.04em; }
 .nome { position: relative; font-weight: 700; font-size: 0.95rem; text-transform: uppercase; margin-top: 0.6rem; padding-top: 0.45rem; border-top: 4px solid currentColor; }
-@media (max-width: 800px) {
-  .conjunto { grid-template-columns: 1fr 1fr; }
-  a.laje { grid-column: auto; min-height: calc(var(--h) * 0.75); --s: clamp(2.2rem, 8vw, 3.4rem); }
-}
+/* blocos reservados (ainda sem blog) */
+.laje.vazia { color: var(--concreto-escuro); }
+@media (max-width: 800px) { .conjunto { grid-template-columns: 1fr 1fr; } .sigla { font-size: clamp(2.2rem, 8vw, 3rem); } }
 @media (max-width: 520px) { .conjunto { grid-template-columns: 1fr; } }
 /* links sobre concreto */
 a.laje, a.laje:visited, .coluna-lateral a, .coluna-lateral a:visited { color: var(--preto); }
 a.laje:hover, .coluna-lateral a:hover { color: var(--concreto-claro); background-color: var(--preto); }
+/* produções das leituras coletivas */
+.producoes { margin-bottom: 2rem; }
+.producoes h2 { margin-top: 0; }
+.producoes ul { list-style: square; margin-bottom: 0; }
 /* rodapé: φ, atalhos e carimbo */
 .rodape { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 2.5rem; margin-top: 1.5rem; padding: 1.75rem 2rem; background: var(--preto); border: 5px solid var(--concreto); box-shadow: var(--sombra); }
 .phi { font: 700 clamp(6rem, 14vw, 10rem)/0.8 Georgia, "Times New Roman", serif; color: var(--concreto-escuro); }
@@ -140,10 +138,15 @@ O pensamento!
 <h2 class="titulo-bloco" id="blogs">Blogs</h2>
 
 <nav class="conjunto" aria-label="Blogs">
-  <a class="laje l1" href="DA_Dio_Anfibio"><span class="sigla">DA</span><span class="nome">Dio Anfibio</span></a>
-  <a class="laje l2" href="FJ_O_Louco"><span class="sigla">FJ</span><span class="nome">O Louco</span></a>
-  <a class="laje l3" href="RFZ_O_Espírito_Zombeteiro"><span class="sigla">RFZ</span><span class="nome">O Espírito Zombeteiro</span></a>
-  <a class="laje l4" href="Sant'_Um_Único"><span class="sigla">SANT’</span><span class="nome">Um Único</span></a>
+  <a class="laje" href="DA_Dio_Anfibio"><span class="sigla">DA</span><span class="nome">Dio Anfibio</span></a>
+  <a class="laje" href="FJ_O_Louco"><span class="sigla">FJ</span><span class="nome">O Louco</span></a>
+  <a class="laje" href="RFZ_O_Espírito_Zombeteiro"><span class="sigla">RFZ</span><span class="nome">O Espírito Zombeteiro</span></a>
+  <a class="laje" href="Sant'_Um_Único"><span class="sigla">SANT’</span><span class="nome">Um Único</span></a>
+  <!-- Blocos reservados: para ativar, troque <div> por <a href="..."> (e </div> por </a>), remova a classe "vazia" e preencha sigla e nome. -->
+  <div class="laje vazia"><span class="sigla">···</span><span class="nome">Em breve</span></div>
+  <div class="laje vazia"><span class="sigla">···</span><span class="nome">Em breve</span></div>
+  <div class="laje vazia"><span class="sigla">···</span><span class="nome">Em breve</span></div>
+  <div class="laje vazia"><span class="sigla">···</span><span class="nome">Em breve</span></div>
 </nav>
 
 <div class="duas-colunas">
@@ -165,6 +168,14 @@ Este espaço é um espaço de trocas de ideias. Diálogo intensivo e descontinua
 </aside>
 
 </div>
+
+<section class="coluna-texto producoes" id="producoes" markdown="1">
+
+## Produções das leituras coletivas
+
+- [“Manuscritos Econômico-Filosóficos” de Karl Marx](https://ajfilosofia.github.io/Filosofia-Net/RUP-Marx1)
+
+</section>
 
 <footer class="rodape">
   <div class="phi" aria-hidden="true">φ</div>
