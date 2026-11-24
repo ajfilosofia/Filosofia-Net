@@ -1,6 +1,6 @@
 **Φ FILOSOFIA-NET Φ**
 
-*ESCRITOS HECATONQUIROS*
+*ESCRITOS HECATONQUIROS*  
 Sobre a obra "Manuscritos Econômico-Filosóficos" de Karl Marx
 
 *COM AS MÃOS DE:*
