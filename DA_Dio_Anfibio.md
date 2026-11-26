@@ -46,3 +46,4 @@
 
 1. [O Desalento (Ou A Janela Do Nada)](DA_O_Desalento(Ou_A_Janela_Do_Nada))
 2. [Para que serve a filosofia? — Quem está perguntando?](DA_Pra_que_serve)
+3. [Nem Doeu](DA_Nem_Doeu)
