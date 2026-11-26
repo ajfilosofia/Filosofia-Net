@@ -150,7 +150,7 @@
 
 [Sant' Um Único](Sant'_Um_Único)
 
-![stirner](citação_stirner.jpg)
+![stirner](/img/citação_stirner.jpg)
 
 _"Um gole de conhaque
 Aquele toque em teu cetim
