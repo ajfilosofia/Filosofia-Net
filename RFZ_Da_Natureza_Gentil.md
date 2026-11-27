@@ -204,26 +204,22 @@
 Tenho pra mim que a realidade é inacessível em absoluto, mas está lá. E fica a questão que me intriga: que fazem os entes quando não se manifestam?
 {: .capitular}
 
-Faço um exercício comigo mesmo com frequência. Paro. Respiro fundo. Olho envolta. O lugar calmo ou barulhento, o que for: que diabos é isso aqui? De sou feito eu? De que é tudo feito? Isso me assombra. É como se o todo o universo fosse feito da mesma gota d'água e eu estivesse mergulhado como a gota que quando volta ao mar já não é mais diferenciada. "Somos todos um": Uma unidade autônoma, uma unidade coletiva. Medonho! Retorno rápido a ignorar isso tudo, mas logo me ocorre outra viagem: esses gregos que viam deuses em tudo, esses egípcios, esses místicos... Eu não vi cada uma dessas pessoas que trafegam noite e dia pelas ruas nascerem e não sei de onde vieram. E se... e se forem mesmo os deuses? E se as árvores forem as ninfas e se o Sol estiver mesmo me observando? Essa longa introdução para falar de ego.
+Faço um exercício comigo mesmo com frequência. Paro. Respiro fundo. Olho envolta. O lugar calmo ou barulhento, o que for: que diabos é isso aqui? De que sou feito eu? De que é tudo feito? Isso me assombra. É como se todo o universo fosse feito da mesma gota d'água e eu estivesse mergulhado como a gota que quando volta ao mar já não é mais diferenciada. "Somos todos um": uma unidade autônoma, uma unidade coletiva. Medonho! Retorno rápido a ignorar isso tudo, mas logo me ocorre outra viagem: esses gregos que viam deuses em tudo, esses egípcios, esses místicos... Eu não vi cada uma dessas pessoas que trafegam noite e dia pelas ruas nascerem e não sei de onde vieram. E se... e se forem mesmo os deuses? E se as árvores forem as ninfas e se o Sol estiver mesmo me observando? Essa longa introdução para falar de ego.
 
-
-Vejo, por vezes, duas atitudes diferentes perante ao que se convenciona chamar de "realidade": recusa e humildade. Mas antes de qualquer coisa. Que diabos é real, afinal de contas? E importa?
-
+Vejo, por vezes, duas atitudes diferentes perante ao que se convenciona chamar de "realidade": recusa e humildade. Mas antes de qualquer coisa. Que diabos é real, afinal de contas?
 
 ## Do Real
 
-Há um festival de cinema de documentários que se chama "É tudo verdade" e eu adoro esse nome paradoxal. Pois em cinema, que é verdade? Que é mesmo um documento? Todos sabem que cartas, ofícios, mapas etc. são pontos de vista. Tem lugar, endereço, autoria. Os historiadores se debatem e muito para dizer que é a História. E se a história "oficial" é suficiente. Cada palavra falada é acompanhada do silêncio de todo o resto de palavras que a humanidade já falou. Que é este silêncio? Onde mora o concreto do real? Vê que tudo que é sólido se desmancha no ar? Se a gente questiona e vai em busca da origem, os objetos se tornam matrioskas infinitas e jocosas.
+Há um festival de cinema de documentários que se chama "É tudo verdade" e eu adoro esse nome paradoxal. Pois em cinema, que é verdade? Que é mesmo um documento? Todos sabem que cartas, ofícios, mapas etc. são pontos de vista. Têm lugar, endereço, autoria. Os historiadores se debatem e muito para dizer que é a História. E se a história "oficial" é suficiente. Cada palavra falada é acompanhada do silêncio de todo o resto de palavras que a humanidade já falou. Que é este silêncio? Onde mora o concreto do real? Vê que tudo que é sólido se desmancha no ar? Se a gente questiona e vai em busca da origem, os objetos se tornam matrioskas infinitas e jocosas.
 {: .capitular}
 
 Não é para enlouquecer.
 
 Vejo pessoas reclamando das redes. Das plataformas digitais em favor do real. Mas que real? Afinal, que real? Se você vê Lurdes bonita e eu vejo Lurdes feia? Quem é Lurdes afinal? Talvez mal ela saiba. Interessa se Lurdes está no vídeo, ao vivo ou na praça há alguns metros de mim? Se o nariz que vejo é do avô de Lurdes no rosto dela. E você vê o mesmo nariz (?), mas que é da mãe de Lurdes. Quem é Lurdes? Que é Lurdes?
 
-
 É para aceitar que nada é e tudo está.
 
 Essa história de "o real é mais saudável"... eu não diria assim. Eu diria que há circunstâncias e circunstâncias. Algumas são mais saudáveis que outras em determinadas condições, que podem mudar e que vão mudar e que mudando alteram todo o diagnóstico anterior. Não há molde universal. A vida é pra ser vivida assim mesmo.
-
 
 ## Da Recusa
 
@@ -256,6 +252,7 @@ Talvez O Real exista, mas importa? Se a cada sentimento e atitude nós criamos u
 {: .capitular}
 
 Esse texto é um convite para que façamos o seguinte: sejamos gentis conosco e reflitamos se isso não é ser gentil com o universo inteiro.
+
 
 [RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
 
