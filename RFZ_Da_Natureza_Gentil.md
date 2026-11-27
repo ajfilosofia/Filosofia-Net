@@ -254,6 +254,6 @@ Talvez O Real exista, mas importa? Se a cada sentimento e atitude nós criamos u
 Esse texto é um convite para que façamos o seguinte: sejamos gentis conosco e reflitamos se isso não é ser gentil com o universo inteiro.
 
 
-[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro)
+[RFZ O Espírito Zombeteiro](RFZ_O_Espírito_Zombeteiro), 27 de Novembro de 2026 às 16h21, Brasília - DF, Brasil
 
 [^1]: Rfz é Pesquisador independente baseado em Brasília, Brasil. Bacharel em Comunicação – Audiovisual (Universidade de Brasília). Interesses de pesquisa incluem sistemas simbólicos pós-seculares, semiótica, teoria cultural, e os mecanismos pelos quais tecnologias de sentido organizam a percepção coletiva. Atualmente desenvolvendo o conceito de “**Purificação Simbólica**“: Uma matriz para compreender como sistemas simbólicos dominantes sobrescrevem outros enquanto apresentam-se como neutros. Seu lema é “**disciplina, opus e amor**“, seu user nas redes é @rafzmilhomens e seu site [https://rafaelmmilhomens.com](https://rafaelmmilhomens.com/)
