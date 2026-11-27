@@ -44,7 +44,7 @@
 <!-- ===== fim do estilo ===== -->
 # Para que serve a filosofia? — Quem está perguntando?
 
-[Dio Anfibio](DA_Dio_Anfibio.md)
+[CRS - Diáspora](DA_Dio_Anfibio.md)
 
 *"A filosofia serve para deixar você confuso com perguntas."*
 — Fred, meu filho de 11 anos.

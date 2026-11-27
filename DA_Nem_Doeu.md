@@ -45,7 +45,7 @@
 
 # Nem Doeu
 
-[Dio Anfibio](DA_Dio_Anfibio.md)
+[CRS - Diáspora](DA_Dio_Anfibio.md)
 
 Outro dia descobri um hematoma no meu corpo. Não sei onde bati.
 
@@ -162,5 +162,3 @@ A dor continua.
 Sem sujeito.
 
 E um corpo indiferente diante do espelho.
-
-[Dio Anfibio](DA_Dio_Anfibio.md)

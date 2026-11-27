@@ -138,7 +138,7 @@ O pensamento!
 <h2 class="titulo-bloco" id="blogs">Blogs</h2>
 
 <nav class="conjunto" aria-label="Blogs">
-  <a class="laje" href="DA_Dio_Anfibio"><span class="sigla">DA</span><span class="nome">Dio Anfibio</span></a>
+  <a class="laje" href="DA_Dio_Anfibio"><span class="sigla">CRS</span><span class="nome">Diáspora</span></a>
   <a class="laje" href="FJ_O_Louco"><span class="sigla">FJ</span><span class="nome">O Louco</span></a>
   <a class="laje" href="RFZ_O_Espírito_Zombeteiro"><span class="sigla">RFZ</span><span class="nome">O Espírito Zombeteiro</span></a>
   <a class="laje" href="Sant'_Um_Único"><span class="sigla">SANT’</span><span class="nome">Um Único</span></a>

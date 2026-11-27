@@ -42,7 +42,7 @@
   .markdown-body hr { border: 0; height: 1px; background: #ccc; margin: 4em 0; }
 </style>
 <!-- ===== fim do estilo ===== -->
-# Dio Anfibio
+# CRS - Diáspora
 
 1. [O Desalento (Ou A Janela Do Nada)](DA_O_Desalento(Ou_A_Janela_Do_Nada))
 2. [Para que serve a filosofia? — Quem está perguntando?](DA_Pra_que_serve)
