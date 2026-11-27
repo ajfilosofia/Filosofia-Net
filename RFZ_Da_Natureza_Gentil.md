@@ -192,10 +192,12 @@
 
 ## Sumário
 
-1. [Introdução](#Introdução)
-2. [Do Real](#Do-Real)
-3. [Da Recusa](#Da-Recusa)
-4. 
+1. [Introdução](#introdução)
+2. [Do Real](#do-real)
+3. [Da Recusa](#da-recusa)
+4. [Da Humildade](#da-humildade)
+5. [Da Gentileza](#da-gentileza)
+6. [Conclusão](#conclusão)
 
 ## Introdução
 Tenho pra mim que a realidade é inacessível em absoluto, mas está lá. E fica a questão que me intriga: que fazem os entes quando não se manifestam?
