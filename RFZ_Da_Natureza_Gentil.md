@@ -200,6 +200,7 @@
 6. [Conclusão](#conclusão)
 
 ## Introdução
+
 Tenho pra mim que a realidade é inacessível em absoluto, mas está lá. E fica a questão que me intriga: que fazem os entes quando não se manifestam?
 
 Faço um exercício comigo mesmo com frequência. Paro. Respiro fundo. Olho envolta. O lugar calmo ou barulhento, o que for: que diabos é isso aqui? De sou feito eu? De que é tudo feito? Isso me assombra. É como se o todo o universo fosse feito da mesma gota d'água e eu estivesse mergulhado como a gota que quando volta ao mar já não é mais diferenciada. "Somos todos um": Uma unidade autônoma, uma unidade coletiva. Medonho! Retorno rápido a ignorar isso tudo, mas logo me ocorre outra viagem: esses gregos que viam deuses em tudo, esses egípcios, esses místicos... Eu não vi cada uma dessas pessoas que trafegam noite e dia pelas ruas nascerem e não sei de onde vieram. E se... e se forem mesmo os deuses? E se as árvores forem as ninfas e se o Sol estiver mesmo me observando? Essa longa introdução para falar de ego.
