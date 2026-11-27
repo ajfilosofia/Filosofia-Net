@@ -225,6 +225,8 @@ P.S.: para me conhecer melhor, você pode acessar [minha página](https://rafael
 	1. Uma viagem sobre nomes imagens, nomes imagens nomes.
 6. [Um País Cristão - Brasil E O Cruzeiro Do Sul](RFZ_Um_País_Cristão)
 	1. Acerca do que vemos e ignoramos
+7. [Da Natureza Gentil](RFZ_Da_Natureza_Gentil)
+	1. Uma reflexão sobre a ética
 
 ## [Verso & Poesia](https://lacra.ia.br/rafzmilhomens/)
 
